@@ -3,7 +3,14 @@
       <fileDesc>
          <titleStmt>
             <title>Title</title>
-         <respStmt><resp>Transcription</resp><persName>Florence Naugrette</persName></respStmt></titleStmt>
+                  <respStmt>
+                     <resp>Transcription</resp>
+                     <persName>Amandine Chambard</persName>
+                  </respStmt>
+                  <respStmt>
+                     <resp>Contrôle</resp>
+                     <persName>Florence Naugrette</persName>
+                  </respStmt></titleStmt>
          <publicationStmt>
             <p/>
          </publicationStmt>
@@ -26,8 +33,24 @@
       <body>
          <div type="letter">
             <opener><dateline rend="right">Guernesey, 21 décembre 1860, vendredi 9 h. du m.</dateline></opener>
-            <p>Bonjour, mon doux, mon grand, mon bon, mon ineffable bien-aimé. Bonjour mon cher petit tout guéri, bonjour je suis heureuse, je te bénis, je t’adore. J’espère que tu as passé une bonne nuit et que tu <supplied>te</supplied> trouves aussi bien ce matin qu’hier au soir. Je voudrais être plus vieille de deux heures pour en être tout à fait sûre mais pour me faire prendre patience jusque là je t’aimerai pour plus de deux siècles. Tout le monde, à ton exemple, mon généreux homme, me comble ; l’autre jour c’était <persName ref="#jd.notice.655">Marie Turpin</persName> qui m’ornait d’une ravissante tasse <term ref="#jd.glossaire.373">mason</term>. Ce matin c’est M<hi rend="superscript">me</hi>
-               <persName ref="#jd.notice.614"> Patourel</persName> qui m’envoie huit poires les plus belles qu’on puisse trouver. Je voudrais qu’elles puissent se conserver jusqu’à mon festival des rois pour t’en régaler ainsi que tes deux braves enfants mais je crains qu’elles ne soient mûres à point et qu’il ne faille de toute nécessité les dévorer tout de suite. Si cela était permets-moi de les envoyer chez toi aujourd’hui même. [<hi rend="underline">plusieurs mots illisibles</hi>] en <unclear>profites  ? profiter</unclear> et puis je vous adore sans permission et autant que je veux. Attrapé<note type="manuscriptologique">« attrappé ».</note>.</p>
+            <p>Bonjour, mon doux, mon grand, mon bon, mon ineffable bien-aimé. Bonjour mon cher
+                     petit tout guéri, bonjour je suis heureuse, je te bénis, je t’adore. J’espère
+                     que tu as passé une bonne nuit et que tu <supplied>te</supplied> trouves aussi
+                     bien ce matin qu’hier au soir. Je voudrais être plus vieille de deux heures
+                     pour en être tout à fait sûre mais pour me faire prendre patience jusque là je
+                     t’aimerai pour plus de deux siècles. Tout le monde, à ton exemple, mon généreux
+                     homme, me comble ; l’autre jour c’était <persName ref="#jd.notice.655">Marie
+                        Turpin</persName> qui m’ornait d’une ravissante tasse <term
+                        ref="#jd.glossaire.373">mason</term>. Ce matin c’est M<hi rend="superscript"
+                        >me</hi> <persName ref="#jd.notice.614">Patourel</persName> qui m’envoie
+                     huit poires les plus belles qu’on puisse trouver. Je voudrais qu’elles puissent
+                     se conserver jusqu’à mon festival des rois pour t’en régaler ainsi que tes deux
+                     braves enfants mais je crains qu’elles ne soient mûres à point et qu’il ne
+                     faille de toute nécessité les dévorer tout de suite. Si cela était permets-moi
+                     de les envoyer chez toi aujourd’hui même. <note type="editor">plusieurs mots
+                        illisibles</note> en <unclear>profites</unclear> <unclear>profiter</unclear> et puis je
+                     vous adore sans permission et autant que je veux. Attrapé<note
+                        type="manuscriptologique">« attrappé ».</note>.</p>
             <!--BnF, Mss, NAF 16381, f. 327
 Transcription d’Amandine Chambard assistée de Florence Naugrette
             -->
@@ -62,23 +85,28 @@ Transcription d’Amandine Chambard assistée de Florence Naugrette
    <text>
       <body>
          <div type="letter">
-            <p>Je t’ai quitté – mon bien-aimé – Que le souvenir de mon amour te suive et te console pendant notre séparation – Si tu savais combien je t’aime – combien tu es nécessaire à ma vie – tu n’oserais pas t’absenter un seul moment – Tu resterais toujours près de moi – ton cœur contre mon cœur, ton âme contre mon âme –<lb/>
-Il est onze heures du soir – Je ne t’ai pas vu – Je t’attends avec bien de l’impatience – je t’attends toujours –––<note type="manuscriptologique">Le trait court jusqu’à la fin de la ligne.<lb/>
-               </note>
-               <lb/>
-Il me semble qu’il y a un siècle que je ne t’ai vu, que je n’ai contemplé<note type="manuscriptologique">« contemplée ».</note> tes traits – que je ne me suis enivrée de ton regard – Pauvre fille que je suis – Je ne te verrai probablement pas ce soir – Oh, reviens – mon âme, ma vie – reviens – Si tu savais comme je te désire – comme le souvenir de cette nuit me rend folle et impatiente de bonheur – combien je désire m’enivrer de ton haleine et de tes baisers que je savoure en extase sur ta bouche. <lb/>
-Mon Victor, pardonne-moi<note type="manuscriptologique">« pardonnes moi ».</note> toutes mes folies, c’est encore de l’amour. Aime-moi – j’ai bien besoin de ton amour pour me sentir exister – C’est le soleil qui ranime ma vie – <lb/>
-Je vais me coucher – Je m’endormirai en priant pour toi – Le besoin que j’ai de ton bonheur me donne de la foi –<lb/>
-À toi ma dernière pensée. <lb/>
-À toi tous mes rêves. <lb/>
-            </p>
-            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
-               <lb/>
-            </p><p>
-               <supplied>Enveloppe</supplied>
-               <lb/>
-À mon bien-aimé<lb/>
-            </p></postscript>
+            <p>Je t’ai quitté – mon bien-aimé – Que le souvenir de mon amour te suive et te console
+                     pendant notre séparation – Si tu savais combien je t’aime – combien tu es
+                     nécessaire à ma vie – tu n’oserais pas t’absenter un seul moment – Tu resterais
+                     toujours près de moi – ton cœur contre mon cœur, ton âme contre mon âme –<lb/>
+                     Il est onze heures du soir – Je ne t’ai pas vu – Je t’attends avec bien de
+                     l’impatience – je t’attends toujours –––<note type="manuscriptologique">Le
+                        trait court jusqu’à la fin de la ligne. </note><lb/> Il me semble qu’il y a
+                     un siècle que je ne t’ai vu, que je n’ai contemplé<note
+                        type="manuscriptologique">« contemplée ».</note> tes traits – que je ne me
+                     suis enivrée de ton regard – Pauvre fille que je suis – Je ne te verrai
+                     probablement pas ce soir – Oh, reviens – mon âme, ma vie – reviens – Si tu
+                     savais comme je te désire – comme le souvenir de cette nuit me rend folle et
+                     impatiente de bonheur – combien je désire m’enivrer de ton haleine et de tes
+                     baisers que je savoure en extase sur ta bouche. <lb/> Mon Victor,
+                        pardonne-moi<note type="manuscriptologique">« pardonnes moi ».</note> toutes
+                     mes folies, c’est encore de l’amour. Aime-moi – j’ai bien besoin de ton amour
+                     pour me sentir exister – C’est le soleil qui ranime ma vie – <lb/> Je vais me
+                     coucher – Je m’endormirai en priant pour toi – Le besoin que j’ai de ton
+                     bonheur me donne de la foi –<lb/> À toi ma dernière pensée. <lb/> À toi tous
+                     mes rêves. <lb/>
+                  </p>
+            <closer><signed rend="right">Juliette</signed></closer>
             
             
             <!--BnF, Mss, NAF 16322, f. 9
@@ -91,6 +119,12 @@ b) « contemplée ».
 c) « pardonnes moi ». 
             -->
          </div>
+               <div type="enveloppe">
+                  <p>
+                     <supplied>Enveloppe</supplied>
+                     <lb/> À mon bien-aimé<lb/>
+                  </p>
+               </div>
       </body>
    </text>
 </TEI></teiCorpus><teiCorpus xml:id="jd.entry.1233"><teiHeader><fileDesc><titleStmt><title>11. 11</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc></teiHeader><TEI xml:id="id165917364">
@@ -121,8 +155,25 @@ c) « pardonnes moi ».
       <body>
          <div type="letter">
             <opener><dateline rend="right">Jersey, 11 mars 1854, samedi soir, 5 h.</dateline></opener>
-            <p>Mon cœur ne sait à quoi entendre, mon cher petit taquin, je souffre de l’âme et les larmes me montent aux yeux. Je n’ai plus de courage et je voudrais être morte au moins pendant le temps de ton absence. Il me semble que si tu avais dû ne pas partir lundi, tu serais venu tout de suite m’apprendre cette heureuse nouvelle ? Et d’un autre côté, il me paraît bien injuste si tu dois t’en aller de donner si peu de temps à ma tristesse et à <supplied>mon</supplied> ennui. Tout cela, mon adoré ne m’empêche pas de voir que le soleil reluit et que le temps promet d’être beau lundi ! J’espère qu’il ne se démentira pas d’ici là et que tu feras cette traversée dans les meilleurs conditions atmosphériques. En attendant je fais force de voile et de rames pour t’avoir des chaussettes pareilles à ta bonne douzaine. Jusqu’à présent il n’en reste que neuf paires qu’on veut vendre 2 <unclear/> chaque paire, les mêmes que j’ai payées <supplied>1 ?16</supplied> il y a six mois. Ce que voyant, j’ai cherché la facture des susdites et je compte l’envoyer par Suzanne dès qu’elle reviendra de chez toi. Voilà, mon cher petit Toto, les fiches U de consolation que j’ai, y compris les rats de mon affreuse servarde. <lb/>
-Il est bien entendu, mon cher petit homme, que si ce congrès socialiste dure plus de huit jours j’irai te rejoindre à Londres. Si je ne comptais pas sur cette promesse sacrée entre toutes je ne consentirais pas à rester ici huit jours seule.</p>
+            <p>Mon cœur ne sait à quoi entendre, mon cher petit taquin, je souffre de l’âme et les
+                     larmes me montent aux yeux. Je n’ai plus de courage et je voudrais être morte
+                     au moins pendant le temps de ton absence. Il me semble que si tu avais dû ne
+                     pas partir lundi, tu serais venu tout de suite m’apprendre cette heureuse
+                     nouvelle ? Et d’un autre côté, il me paraît bien injuste si tu dois t’en aller
+                     de donner si peu de temps à ma tristesse et à <supplied>mon</supplied> ennui.
+                     Tout cela, mon adoré ne m’empêche pas de voir que le soleil reluit et que le
+                     temps promet d’être beau lundi ! J’espère qu’il ne se démentira pas d’ici là et
+                     que tu feras cette traversée dans les meilleurs conditions atmosphériques. En
+                     attendant je fais force de voile et de rames pour t’avoir des chaussettes
+                     pareilles à ta bonne douzaine. Jusqu’à présent il n’en reste que neuf paires
+                     qu’on veut vendre <unclear>2</unclear> chaque paire, les mêmes que j’ai payées
+                        <supplied>1 ?16<!--@todo--></supplied> il y a six mois. Ce que voyant, j’ai
+                     cherché la facture des susdites et je compte l’envoyer par Suzanne dès qu’elle
+                     reviendra de chez toi. Voilà, mon cher petit Toto, les fiches U de consolation
+                     que j’ai, y compris les rats de mon affreuse servarde. <lb/> Il est bien
+                     entendu, mon cher petit homme, que si ce congrès socialiste dure plus de huit
+                     jours j’irai te rejoindre à Londres. Si je ne comptais pas sur cette promesse
+                     sacrée entre toutes je ne consentirais pas à rester ici huit jours seule.</p>
             <!--BnF, Mss, NAF 16375, f. 95-96
 Transcription de Chantal Brière-->
          </div>
@@ -519,12 +570,28 @@ Transcription de Sandra Glatigny assistée de Gérard Pouchain-->
          <div type="letter">
             <p> </p>
             <p rend="right">14 juillet <supplied>1838</supplied>, samedi soir, 9 h. ¾</p>
-            <p>Je vous écris sur du papier écolier mon amour avec une orthographe à l’avenant. Mon Toto, je vous aime. Mon Toto, je ne suis pas [<hi rend="underline">dessin</hi>]<note type="manuscriptologique">Dessin d’un triangle, pointe en bas, doté d’un point à chaque angle :<figure><graphic url="spip_document_149"/><figDesc>© Bibliothèque Nationale de France
-</figDesc></figure>
-                  <lb/>
-               </note>. Je ne demande pas mieux que de l’être pour vous. Je suis arrivée d’une manière opportune tantôt. Je n’en suis pas fâchée car sans cela je ne serais plus revenue. Que je vous adore mon petit homme et que je voulais être aimée de vous, tandis que je ne suis qu’un pauvre <term ref="#jd.glossaire.1606">toucan</term>
-               <note type="manuscriptologique">Dessin d’un toucan :<lb/>
-               </note> bien hideux et bien résigné. Je vous écris non pas avec une de mes plumes mais avec une de mes pattes. C’est pour ça que c’est si bête, mais en revanche, je vous donne en amour tout ce que je ne vous donne pas en esprit, ainsi MESUREZ. J’ai toujours peur, mon Toto, que vous oubliiez<note type="manuscriptologique">« oubliez ».</note> de venir me chercher, ce qui ne serait pas très amusant. Je guette tous les bruits de la maison pour deviner si c’est toi. J’ai tant de besoin de vous baiser, mon petit homme, que vous seriez bien bon de venir tout de suite.</p>
+            <p>Je vous écris sur du papier écolier mon amour avec une orthographe à l’avenant. Mon
+                     Toto, je vous aime. Mon Toto, je ne suis pas [<hi rend="underline"
+                        >dessin</hi>]<note type="manuscriptologique">Dessin d’un triangle, pointe en
+                        bas, doté d’un point à chaque angle :<figure>
+                           <graphic url="spip_document_149"/>
+                           <figDesc>© Bibliothèque Nationale de France</figDesc>
+                        </figure></note>. Je ne demande pas mieux que de l’être pour vous. Je suis
+                     arrivée d’une manière opportune tantôt. Je n’en suis pas fâchée car sans cela
+                     je ne serais plus revenue. Que je vous adore mon petit homme et que je voulais
+                     être aimée de vous, tandis que je ne suis qu’un pauvre <term
+                        ref="#jd.glossaire.1606">toucan</term>
+                     <note type="manuscriptologique">Dessin d’un toucan :<figure>
+                           <graphic url="spip_document_150"/>
+                           <figDesc>© Bibliothèque Nationale de France</figDesc>
+                        </figure></note> bien hideux et bien résigné. Je vous écris non pas avec
+                     une de mes plumes mais avec une de mes pattes. C’est pour ça que c’est si bête,
+                     mais en revanche, je vous donne en amour tout ce que je ne vous donne pas en
+                     esprit, ainsi MESUREZ. J’ai toujours peur, mon Toto, que vous oubliiez<note
+                        type="manuscriptologique">« oubliez ».</note> de venir me chercher, ce qui
+                     ne serait pas très amusant. Je guette tous les bruits de la maison pour deviner
+                     si c’est toi. J’ai tant de besoin de vous baiser, mon petit homme, que vous
+                     seriez bien bon de venir tout de suite.</p>
             <closer><signed rend="right">Juliette</signed></closer>
             <!--BnF, Mss, NAF 16335, f. 55-56
 Transcription de Sandra Glatigny assistée de Gérard Pouchain-->
@@ -569,10 +636,8 @@ c) « oubliez ».
          <div type="letter">
             <opener><dateline rend="right">Paris, 13 nov<supplied>embre 18</supplied>70, dimanche matin, 8 h. ½</dateline></opener>
             <p>Voici, mon très cher et très grand bien-aimé, mon très bon bonjour après ma très bonne bonne nuit. J’espère que de ton côté tu en as autant à m’offrir ce matin. Malgré son chiffon redouté, 13, la journée s’annonce bien car elle est déjà pleine de soleil et <hi rend="underline">Les Châtiments</hi> resplendiront<note type="manuscriptologique">« resplendirons ».</note> ce soir dans un second triomphe aussi enthousiaste que le premier<note type="footnote">Le soir a lieu à la Porte-Saint-Martin une deuxième lecture publique des <emph>Châtiments</emph> au profit des canons pour la défense de Paris.</note>. Quant à moi mon cœur est tout en fête par la pensée de passer ma soirée avec toi seul et dans le voisinage de <persName ref="#jd.notice.511">Petit Georges</persName> et de <persName ref="#jd.notice.539">Petite Jeanne</persName>, ce qui nous permettra de surveiller leur sommeil pendant l’absence de leurs parents. Je t’ai fait dire par <persName ref="#jd.notice.591">Mariette</persName> de ne pas oublier l’heure du dîner ce soir et de prier M<hi rend="superscript">me</hi> P. <persName ref="#jd.notice.602">Meurice</persName> d’être exacte puisqu’elle tient, et je le comprends, à ne pas perdre un seul vers des <hi rend="underline">Châtiments</hi> ce soir. De mon côté je veillerai à ce que le dîner soit prêt à l’heure, c’est-à-dire à six heures. Demain sans faute j’espère pouvoir aller t’acheter ta flanelle et ta couverture. Aujourd’hui je ne suis pas encore assez solide et d’ailleurs c’est dimanche. Tu sais qu’il me reste encore 300 F. sans compter l’appoint de la note de l’hôtel que j’ai payée hier. Là-dessus j’aurai à payer le mois de <persName ref="#jd.notice.642">Suzanne</persName> dans trois jours plus le blanchissage et quelques petites dépenses personnelles. Voilà mes comptes rendus. Voyons les vôtres… Je t’aime.</p>
-            <p>Collection particulière / Musée des Lettres et Manuscrits (Paris), 71948<lb/>
-Transcription de Gérard Pouchain<lb/>
-            </p>
-            <p>a) « resplendirons ».</p>
+                  <!--<p>Collection particulière / Musée des Lettres et Manuscrits (Paris), 71948<lb/> Transcription de Gérard Pouchain<lb/> </p>-->
+                  <!--<p>a) « resplendirons ».</p>-->
          </div>
       </body>
    </text>
@@ -603,20 +668,21 @@ Transcription de Gérard Pouchain<lb/>
    <text>
       <body>
          <div type="letter">
-            <opener><dateline rend="right">Jeudi, 1 h. du matin<lb/>
-Juillet <supplied>18</supplied>34<note type="manuscriptologique">Date rajoutée sur la manuscrit d’une main différente de celle de Juliette.</note>
-               <lb/>
-               <unclear>Jeudi 17 juillet 1834</unclear>
-            </dateline></opener>
+            <opener><dateline rend="right">Jeudi, 1 h. du matin<lb/> Juillet <supplied>18</supplied>34<note
+                           type="manuscriptologique">Date rajoutée sur le manuscrit d’une main
+                           différente de celle de Juliette.</note>
+                        <lb/>
+                        <unclear>Jeudi 17 juillet 1834</unclear>
+                     </dateline></opener>
             <p>
 Depuis que ton accident<note type="footnote">À partir du vendredi 11 juillet 1834, Hugo est immobilisé chez lui plusieurs jours par une blessure au bras (CFL, t. V, p. 1458). D’où la datation « Juillet 34 ». Cette lettre pourrait dater du jeudi 17 juillet 1834, jeudi suivant l’accident de Hugo. La numérotation « 14<hi rend="superscript">e</hi> » pourrait indiquer que Juliette écrivit alors la quatorzième lettre du mois de juillet 1834.</note> t’empêche de rester avec moi aussi tard que d’habitude, je ne peux pas employer les heures de cet <unclear>intermède</unclear> à autre chose qu’à t’écrire – Je ne sais pas d’autre meilleure manière de me rapprocher de toi, sans cela, je l’emploierais – <lb/>
 Mon pauvre cher enfant, je suis arrivée sans aucun encombre. Ainsi ne t’inquiète pas, dors bien, pense à moi, songe que je t’aime, prends bien soin de ton bras, afin que nous puissions reprendre nos bonnes vieilles habitudes. À demain, bonsoir, mille baisers dans ce petit espace.</p>
-            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
-               <supplied>Adresse</supplied>
-               <lb/>
-14<hi rend="superscript">e</hi>
-               <lb/> 
-Pr mon bien aimé</p></postscript>
+            <closer><signed rend="right">Juliette</signed>
+                     <address>
+                        <addrLine><supplied>Adresse</supplied></addrLine>
+                        <addrLine>14<hi rend="superscript">e</hi></addrLine>
+                        <addrLine>Pr mon bien aimé</addrLine>
+                     </address></closer>
             
             <!--BnF, Mss, NAF 16322, f. 161-162 Transcription de Jeanne Stranart assistée de Florence Naugrette-->
             <!--a) Date rajoutée sur la manuscrit d’une main différente de celle de Juliette.-->
@@ -732,9 +798,34 @@ c) « dis ».-->
 1839<note type="manuscriptologique">Écrit d’une autre main.<lb/>
                </note>
             </p>
-            <p>Vous ne croirez peut-être pas, mon Toto, que je ne viens que de finir à présent mes tripotages et pourtant c’est bien vrai. J’ai le cœur gros et l’âme pleine d’amour, et cependant j’ai mes pauvres yeux rouges et gonflés, c’est qu’il ne suffit pas d’aimer pour être heureuse car sans cela il n’y aurait pas de femme plus joyeuse que moi. Il faut encore l’estime de l’homme qu’on aime et voilà ce que je n’aurai jamais, quelque abnégation de toute coquetterie et de toute liberté <supplied>que</supplied> je fasse à mon amour. Je sais cela, je ne me fais pas d’illusions, et c’est ce qui rend ma vie si triste et si dépourvue d’avenir. Au reste, telle qu’elle est, je la préfère à tout au monde et je suis une insensée de ne pas l’accepter, d’essayer de la changer. Il y a des choses sur lesquelles on ne peut pas revenir, mon passé est du nombre et je dois le subir avec courage et résignation. Et pour commencer je ne veux plus parler de ce qui m’afflige et<note type="manuscriptologique">Dessin :<figure><graphic url="spip_document_237"/><figDesc>© Bibliothèque Nationale de France
-</figDesc></figure>c) « doute ».<lb/>
-               </note> pour plus grande preuve je fais ici le portrait de M. P<note type="footnote">Vraisemblablement <persName ref="#jd.notice.621">James Pradier</persName>.</note>… recevant des mains de la beauté le chef-d’œuvre de Toto. Il est à genoux comme il convient à directeur des TABACS<note type="footnote">À élucider.</note>. Vous voyez bien, mon amour, que je ne demande pas mieux que de rire et que lorsque je pleure, c’est que j’ai beaucoup de chagrin. Ainsi c’est à vous à ne m’en pas faire. Mon dessin fait fureur parmi les femelles qui m’entourent. Oh le nez ! Tiens c’est un petit oiseau dans une cage. Les malheureuses, elles ne se doutent<note type="manuscriptologique"/> pas que c’est d’un tableau charmant dont elles parlent avec cette irrévérence. Donnez-moi votre <term ref="#jd.glossaire.388">vec</term> que je le baise et ne soyez plus jaloux si vous pouvez ou plutôt soyez-le puisque cela prouve que vous m’aimez.</p>
+            <p>Vous ne croirez peut-être pas, mon Toto, que je ne viens que de finir à présent mes
+                     tripotages et pourtant c’est bien vrai. J’ai le cœur gros et l’âme pleine
+                     d’amour, et cependant j’ai mes pauvres yeux rouges et gonflés, c’est qu’il ne
+                     suffit pas d’aimer pour être heureuse car sans cela il n’y aurait pas de femme
+                     plus joyeuse que moi. Il faut encore l’estime de l’homme qu’on aime et voilà ce
+                     que je n’aurai jamais, quelque abnégation de toute coquetterie et de toute
+                     liberté <supplied>que</supplied> je fasse à mon amour. Je sais cela, je ne me
+                     fais pas d’illusions, et c’est ce qui rend ma vie si triste et si dépourvue
+                     d’avenir. Au reste, telle qu’elle est, je la préfère à tout au monde et je suis
+                     une insensée de ne pas l’accepter, d’essayer de la changer. Il y a des choses
+                     sur lesquelles on ne peut pas revenir, mon passé est du nombre et je dois le
+                     subir avec courage et résignation. Et pour commencer je ne veux plus parler de
+                     ce qui m’afflige et<note type="manuscriptologique">Dessin :<figure>
+                           <graphic url="spip_document_237"/>
+                           <figDesc>© Bibliothèque Nationale de France</figDesc>
+                        </figure></note> pour plus grande preuve je fais ici le portrait de
+                        M. P<note type="footnote">Vraisemblablement <persName ref="#jd.notice.621"
+                           >James Pradier</persName>.</note>… recevant des mains de la beauté le
+                     chef-d’œuvre de Toto. Il est à genoux comme il convient à directeur des
+                        TABACS<note type="footnote">À élucider.</note>. Vous voyez bien, mon amour,
+                     que je ne demande pas mieux que de rire et que lorsque je pleure, c’est que
+                     j’ai beaucoup de chagrin. Ainsi c’est à vous à ne m’en pas faire. Mon dessin
+                     fait fureur parmi les femelles qui m’entourent. Oh le nez ! Tiens c’est un
+                     petit oiseau dans une cage. Les malheureuses, elles ne se doutent<note
+                        type="manuscriptologique">« doute ».</note> pas que c’est d’un tableau
+                     charmant dont elles parlent avec cette irrévérence. Donnez-moi votre <term
+                        ref="#jd.glossaire.388">vec</term> que je le baise et ne soyez plus jaloux
+                     si vous pouvez ou plutôt soyez-le puisque cela prouve que vous m’aimez.</p>
             <closer><signed rend="right">Juliette</signed></closer>
             <!--BnF, Mss, NAF 16337, f. 257-258
 Transcription de Madeleine Liszewski assistée de Florence Naugrette-->
