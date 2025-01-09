@@ -1,0 +1,2970 @@
+<teiCorpus xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>Lettres de Juliette Drouet à Victor Hugo</title><respStmt><resp>Éditées par</resp><name>Florence Naugrette</name></respStmt></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><p>Seconde édition électronique</p></sourceDesc></fileDesc></teiHeader><teiCorpus xml:id="jd.entry.679"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 1-2</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Amis</term><term type="subject">Sexualité</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.679.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 1-2</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">17 février 1833<note type="manuscriptologique">Cette date est rajoutée sur le manuscrit d’une main différente de celle de Juliette Drouet et de celle de Victor Hugo. Leur première nuit d’amour est celle du 16 au 17 février. Premier dans l’ordre de conservation de la BnF, ce billet n’est sans doute pas le premier écrit par Juliette Drouet à Victor Hugo. Le<ref target="http://www.juliettedrouet.org/lettres/spip.php?page=article&amp;id_article=682">folio 5-6</ref> lui est vraisemblablement antérieur.<lb/>
+               </note>
+            </dateline></opener>
+            <p>
+Viens me chercher ce soir chez M<hi rend="superscript">me</hi>
+               <persName ref="#jd.notice.558">K.</persName>
+               <note type="footnote">
+                  <persName ref="#jd.notice.558">Laure Kraft</persName> (ou Krafft), amie de Juliette Drouet, chez qui elle occupe une chambre, au 5 bis, boulevard Saint-Martin.</note> Je t’aimerai jusque-là pour prendre patience – et ce soir – Oh ! ce soir ce sera tout ! Je me donnerai à toi tout entière<note type="manuscriptologique">« toute entière ».</note>. <lb/>
+            </p>
+            <closer><signed rend="right">J.</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+M. Victor<lb/>
+            </p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 1-2
+Transcription de Jeanne Stranart et Véronique Cantos assistée de Florence Naugrette
+               Souchon, Blewer, Pouchain
+               
+            -->
+            <!--a) Cette date est rajoutée sur le manuscrit d’une main différente de celle de Juliette Drouet et de celle de Victor Hugo. Leur première nuit d’amour est celle du 16 au 17 février. Premier dans l’ordre de conservation de la BnF, ce billet n’est sans doute pas le premier écrit par Juliette Drouet à Victor Hugo. Le folio 5-6 lui est vraisemblablement antérieur.
+b) « toute entière ».-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.681"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 3-4</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.681.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 3-4</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Oh ! Je t’aime mon Victor. Tu es toute ma vie – Mes regards – mon souffle, tout est à toi – <lb/>
+Je t’attends. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Monsieur Victor Hugo<lb/>
+En ville<lb/>
+            </p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 3-4
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.682"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 5-6</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.682.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 5-6</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Pouvez-vous me consacrer un moment ce soir après dix heures ? <lb/>
+J’ai besoin de vous parler. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+Boulevard St Martin 5 bis<note type="footnote">Juliette indique l’adresse de <persName ref="#jd.notice.558">Laure Kraft</persName>, probablement pour permettre à Hugo de savoir où elle se trouvera à l’heure du rendez-vous.</note>
+            </p><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Monsieur Victor Hugo<lb/>
+Au théâtre<lb/>
+            </p></postscript>
+            
+            
+            <!--BnF, Mss, NAF 16322, f. 5-6
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.685"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 7-8</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Souchon</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Lettres de Hugo reçues par Juliette Drouet</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.685.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 7-8</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Merci – mon bon Victor – de ta bonne lettre – Merci de ton amour – qui est toute ma joie – Celle-ci – et les autres – vont coucher<note type="manuscriptologique">« couchées ».</note> avec moi cette nuit – Je les relirai tes bonnes lettres, si pleines d’amour et de poésie – <lb/>
+Je t’envoie de bons baisers du cœur – en attendant demain soir et ma pensée qui ne te quitte jamais. <lb/>
+            </p>
+            <closer><signed rend="right">J.</signed></closer><postscript><p>
+Mes remerciements<note type="manuscriptologique">« remerciments ».</note> à M. Sainte<note type="manuscriptologique">« St ».</note>-<persName ref="#jd.notice.633">Beuve</persName> le mieux que tu pourras – pour moi. <lb/>
+            </p><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Monsieur Victor Hugo<lb/>
+En ville<lb/>
+            </p></postscript>
+            
+            
+            <!--BnF, Mss, NAF 16322, f. 7-8
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+               Souchon
+            -->
+            <!--a) « couchées ». 
+b) « remerciments ». 
+c) « St ».-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.686"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 9</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Souchon</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Rêves</term><term type="subject">Séparation</term><term type="subject">Sexualité</term><term type="subject">Sommeil</term><term type="subject">Union libre, nature de la relation</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.686.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 9</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Je t’ai quitté – mon bien-aimé – Que le souvenir de mon amour te suive et te console pendant notre séparation – Si tu savais combien je t’aime – combien tu es nécessaire à ma vie – tu n’oserais pas t’absenter un seul moment – Tu resterais toujours près de moi – ton cœur contre mon cœur, ton âme contre mon âme –<lb/>
+Il est onze heures du soir – Je ne t’ai pas vu – Je t’attends avec bien de l’impatience – je t’attends toujours –––<note type="manuscriptologique">Le trait court jusqu’à la fin de la ligne.<lb/>
+               </note>
+               <lb/>
+Il me semble qu’il y a un siècle que je ne t’ai vu, que je n’ai contemplé<note type="manuscriptologique">« contemplée ».</note> tes traits – que je ne me suis enivrée de ton regard – Pauvre fille que je suis – Je ne te verrai probablement pas ce soir – Oh, reviens – mon âme, ma vie – reviens – Si tu savais comme je te désire – comme le souvenir de cette nuit me rend folle et impatiente de bonheur – combien je désire m’enivrer de ton haleine et de tes baisers que je savoure en extase sur ta bouche. <lb/>
+Mon Victor, pardonne-moi<note type="manuscriptologique">« pardonnes moi ».</note> toutes mes folies, c’est encore de l’amour. Aime-moi – j’ai bien besoin de ton amour pour me sentir exister – C’est le soleil qui ranime ma vie – <lb/>
+Je vais me coucher – Je m’endormirai en priant pour toi – Le besoin que j’ai de ton bonheur me donne de la foi –<lb/>
+À toi ma dernière pensée. <lb/>
+À toi tous mes rêves. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <lb/>
+            </p><p>
+               <supplied>Enveloppe</supplied>
+               <lb/>
+À mon bien-aimé<lb/>
+            </p></postscript>
+            
+            
+            <!--BnF, Mss, NAF 16322, f. 9
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+               Souchon
+               
+            -->
+            <!--a) Le trait court jusqu’à la fin de la ligne. 
+b) « contemplée ». 
+c) « pardonnes moi ». 
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.687"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 11-12</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Guimbaud</bibl><bibl>Massin</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Union libre, nature de la relation</term><term type="subject">Dieu, religion, prière</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.687.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 11-12</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">Juin 33<note type="manuscriptologique">Date rajoutée sur le manuscrit d’une autre main de celle de Juliette Drouet.<lb/>
+               </note>
+            </dateline></opener>
+            <p>
+Mon cher Victor, mon bien-aimé, ne t’inquiète pas, je suis aussi bien que peut l’être une pauvre femme qui a perdu le bonheur et la joie de toute sa vie. S’il<note type="manuscriptologique">« si il ».</note> était possible de te faire connaître mon asile sans nous exposer l’un et l’autre, mais surtout moi, à de nouveaux déchirements sans résultats pour l’avenir : car la confiance, chose indispensable dans une liaison comme la nôtre, n’existe plus chez toi. Dieu m’est témoin que je ne t’ai pas trompé<note type="manuscriptologique">« trompée ».</note> dans notre amour une seule fois <hi rend="underline">depuis quatre mois</hi>, soit en actions soit en pensées. <lb/>
+Ce que je t’ai caché<note type="manuscriptologique">« cachée ».</note> n’était que pour nous épargner à l’un et l’autre des tourments<hi rend="superscript">e</hi> inutiles dans la disposition d’esprit où nous étions tous les deux depuis plusieurs mois. C’était un tort, c’est vrai, mais qui avait son excuse dans l’intention. <lb/>
+            </p>
+            <!--BnF, Mss, NAF 16322, f. 11-12
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+               Guimbaud, Massin
+               
+            -->
+            <!--a) Date rajoutée sur le manuscrit d’une autre main de celle de Juliette Drouet. 
+b) « si il ». 
+c) « trompée ». 
+d) « cachée ». 
+e) « tourmens ». 
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.688"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 13-14</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Souchon</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Carrière théâtrale de Juliette Drouet</term><term type="subject">Enfants de Victor Hugo</term><term type="subject">Jalousie, soupçon</term><term type="subject">Porte-Saint-Martin</term><term type="subject">Répétitions</term><term type="subject">Séparation</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.688.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 13-14</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">Mardi, 11 h. du soir</dateline></opener>
+            <p rend="right">été <supplied>18</supplied>33<note type="manuscriptologique">Date rajoutée sur le manuscrit par une autre main de celle de Juliette Drouet.<lb/>
+               </note>
+            </p>
+            <p>
+C’est lorsque je t’ai quitté méchante – que notre séparation est cruelle pour moi – Mon Dieu ! pourquoi t’ai-je laissé partir précipitamment,¬ partir sans adieu – Oh ! j’ai bien des remords – et bien des chagrins à l’heure qu’il est – et je voudrais me repentir à tes genoux – Je suis bien méchante – bien injuste n’est-ce pas ? Mais je t’aime – Oh ! oui, c’est bien vrai – je t’aime – Je ne crois qu’en toi – je ne vis qu’en toi – et pour toi – Veux-tu savoir ce qui me rend folle, injuste et méchante ? C’est la crainte de n’avoir pas la première place dans ton cœur –– <lb/>
+Je souffre de te savoir près de gens qui ont autant que moi – et plus encore le droit de t’aimer – Enfin, j’envie jusqu’à l’air que tu respires – Je crains que l’air soit plus doux – le soleil plus beau – à la campagne qu’à Paris – où l’air est si lourd – Le soleil est si triste depuis quelques jours ––<lb/>
+Si tu savais comme je t’aime – mon Victor, tu aurais de l’indulgence – tu m’aimerais davantage – pour toutes ces tracasseries que te suscite mon amour – Je t’aime plus que je ne puis dire – Je t’aime avec frénésie – Enfin je t’aime – mais mon cœur va bien au-delà de ce mot,  je t’aime – J’y mets toute ma vie – toute mon âme – Pourvu que mon injustice ne te refroidisse pas – pourvu que ta belle petite fille<note type="footnote">
+                  <persName ref="#jd.notice.531">Léopoldine</persName>, fille aînée de Victor Hugo, née le 28 août 1824 est alors âgée de 9 ans. <persName ref="#jd.notice.525">Adèle</persName>, sa fille cadette, née le 24 août 1830 a 3 ans. Dans une lettre du 16 septembre, Hugo écrit que son départ aux Roches, chez les Bertin, est retardé par la maladie de Léopoldine. Ce qui invite à dater cette lettre plutôt de septembre que de l’été.</note> ne soit pas malade sérieusement – pourvu que tu reviennes au plus tard demain – pourvu que tu m’aimes encore autant – Tout est encore réparable – Je t’aimerai jusqu’à l’expiation complète de tous mes torts – Je t’aimerai après – toute ma vie – et au-delà si nous avons une autre vie – <lb/>
+Bonsoir ange – Bonsoir, mille baisers, mille caresses, en pensées, en désirs. Je t’aime mon Victor. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+Pensez à moi – aussi – Vous ne m’écrivez jamais vous – On ne répétera que <hi rend="underline">Shylock</hi>
+               <note type="manuscriptologique">« Schylock ».</note>
+               <note type="footnote">Création de <emph>Shylock</emph>, de Dulac et Alboise, le 2 avril 1830 à la Porte Saint Martin où Juliette Drouet joue le rôle de Jessica. La pièce est reprise au théâtre de la Porte-Saint-Martin fin février 1832. La comédienne se prépare ici pour la reprise du mardi 11 septembre 1833 au théâtre de la Porte-Saint-Martin.</note> demain – Rien de nouveau –<lb/>
+            </p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 13-14
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+               Souchon
+               
+            -->
+            <!--a) Date rajoutée sur le manuscrit par une autre main de celle de Juliette Drouet. 
+b) « Schylock ». 
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.689"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 15-16</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Souchon</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Rituel de la lettre</term><term type="subject">Séparation</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.689.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 15-16</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Je t’écris – mon bien-aimé Victor – parce que je ne renonce pas aussi facilement que toi – à ce qui est le bonheur – Je t’écris – pour te remercier de m’avoir rendu toute ta bonne affection – Je t’écris – parce que je t’aime de toutes les puissances de mon âme – Je t’écris – pour t’encourager à m’écrire – Tes lettres sont si bonnes, elles me font passer mes seuls moments heureux quand nous sommes séparés –<lb/>
+Enfin je t’écris pour te répéter que je t’aime – que je n’aime que toi. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Pr<note type="manuscriptologique">« Pour ». Juliette utilise souvent l’abréviation « Pr » lorsqu’elle rédige l’adresse.</note> M. Victor<lb/>
+            </p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 15-16
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+               Souchon
+               
+            -->
+            <!--a) « Pour ». Juliette utilise souvent  l’abréviation « Pr » lorsqu’elle rédige l’adresse. 
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3623"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 17-18</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Souchon</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Jalousie, soupçon</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3623.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 17-18</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Je vous aime – Prenez garde de vous laisser prendre par la vieille femme<note type="footnote">La lettre n’étant pas datée, il est difficile d’identifier cette rivale. Il peut s’agir de M<hi rend="superscript">lle</hi> <persName ref="#jd.notice.506">George</persName>, alors âgée de 46 ans, que Juliette Drouet n’aime guère, et qui, en 1833, joue tour à tour les héroïnes éponymes de <emph>Lucrèce Borgia</emph> et <emph>Marie Tudor</emph>. M<hi rend="superscript">lle</hi> George avait été d’une grande beauté sculpturale dans sa jeunesse. À l’époque, son embonpoint était la cible des caricaturistes. Paul Souchon émet l’hypothèse qu’il pourrait aussi s’agir de M<hi rend="superscript">lle</hi> <persName ref="#jd.notice.678"> Mars</persName>, créatrice en 1830, à 51 ans, du rôle de doña Sol dans <emph>Hernani</emph>.</note> – car je serais forcée d’aller vous reconquérir, ce qui n’est pas au-dessus<note type="manuscriptologique">« audessus ».</note> de mes forces – parce que je vous aime – <lb/>
+Je vous aime mon Victor. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Monsieur Victor Hugo<lb/>
+En ville<lb/>
+            </p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 17-18
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+               Souchon
+               
+            -->
+            <!--a) « audessus ».-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3625"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 19-20</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Guimbaud</bibl><bibl>Souchon</bibl><bibl>Blewer</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Mort</term><term type="subject">Œuvre de Victor Hugo</term><term type="subject">Temps qu'il fait</term><term type="subject">Dieu, religion, prière</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3625.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 19-20</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">
+               <unclear>1833</unclear>
+            </dateline></opener>
+            <p rend="right">Dimanche, 4 h. du soir</p>
+            <p>
+Je rentre bien triste et bien découragée de tout. Je souffre, je pleure, je me plains tout haut, tout bas, à Dieu, à toi, et je voudrais mourir une bonne fois pour en finir avec toutes les misères, toutes les déceptions, toutes les douleurs. On dirait vraiment que mon bonheur s’est envolé avec les beaux jours, et compter le voir revenir, lui et eux, serait presque de la folie, car en regardant autour de moi et au dedans de moi, je trouve la saison bien avancée pour les beaux jours, et pour les jours heureux. Pauvre fou qui t’étonnes de me voir regretter si amèrement une journée de bonheur, on voit bien que tu n’as pas attendu le bonheur d’aimer et d’être aimé jusqu’à vingt-six ans. Pauvre poète qui avez fait <hi rend="underline">Les Feuilles d’automne</hi> avec de l’amour, des rires d’enfants, des yeux noirs, et bleus, des cheveux bruns, et blonds, du bonheur en quantité. Vous n’avez pas observé combien une journée triste et pluvieuse comme celle d’aujourd’hui fait jaunir et tomber les feuilles les plus vertes et les mieux attachées. Donc vous ne savez pas ce qu’une journée sans bonheur comme celle-ci peut ôter de confiance et de force pour l’avenir. Vous ne le savez pas, car vous vous étonnez quand je pleure, vous vous fâchez presque contre ma douleur. Tu vois donc bien que tu ne sais pas ce que c’est que mon amour, tu vois bien que j’ai raison de regretter de t’aimer autant puisque cet<note type="manuscriptologique">« c’est ».</note> amour t’est inutile et importun. Oh ! je t’aime, c’est bien vrai ! je t’aime malgré toi, malgré moi, malgré tout le monde entier, malgré Dieu, malgré le diable qui s’en mêle aussi. <lb/>
+Je t’aime, je t’aime, je t’aime, heureuse ou malheureuse, gaie ou triste, je t’aime. Fais de moi ce que tu voudras. Je t’aime. <lb/>
+            </p>
+            <!--BnF, Mss, NAF 16322, f. 19-20
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+               Guimbaud, Souchon, Blewer
+               
+            -->
+            <!--a) « c’est ».
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3628"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 21-23</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Guimbaud</bibl><bibl>Souchon</bibl><bibl>Massin</bibl><bibl>Blewer</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Carrière théâtrale de Juliette Drouet</term><term type="subject">Claire Pradier</term><term type="subject">Corps (autre que maladie)</term><term type="subject">Dettes</term><term type="subject">Dispute</term><term type="subject">Maladie</term><term type="subject">Meubles</term><term type="subject">Passé de Juliette Drouet</term><term type="subject">Séparation</term><term type="subject">Union libre, nature de la relation</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3628.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 21-23</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">Lundi, 1 h. moins 10 minutes du matin</dateline></opener>
+            <p rend="right">Sept<supplied>embre</supplied>
+               <supplied>18</supplied>33 ?<note type="manuscriptologique">Date rajoutée sur le manuscrit d’une autre main que celle de Juliette Drouet.<lb/>
+               </note>
+            </p>
+            <p>
+Je suis restée<note type="manuscriptologique">« resté ».</note> à ma fenêtre tout ce temps, l’âme tendue vers vous, l’oreille attentive au moindre bruit, craignant toujours que votre courage ne vous abandonne avant la fin de ce pénible trajet. Voici bientôt une demi-heure<note type="manuscriptologique">« écoutée ».</note> que vous êtes parti. J’ai bien écouté<note type="manuscriptologique">« écoutée ».</note> : il me semble que je n’ai rien entendu qui puisse me faire craindre que vous n’ayez pas eu assez de force pour arriver jusque chez vous. J’espère qu’au moment où je vous écris ces lignes, vous éprouvez déjà le soulagement que le lit et le repos apporteront à vos souffrances. Je ne trouve pas de mot pour vous dire mon regret, mon repentir, mon désespoir, de tout ce qui s’est passé ce soir. Je n’en excepte pas vos torts. Je vous en demande pardon comme des miens. Je vous demande pardon d’avoir consenti à vous appartenir après ce qui s’était<hi rend="superscript">e</hi> passé entre nous. J’aurais dû prévoir ce qui devait arriver, ce qui est arrivé. Dieu sait que j’avais courageusement résisté<note type="manuscriptologique">« résistée ».</note>, et que je n’ai cédé<note type="manuscriptologique">« cédée ».</note> qu’à la promesse sainte et solennelle<note type="manuscriptologique">« solemnelle ».</note> que vous m’aviez faite<note type="manuscriptologique">« fait ».</note> de ne parler jamais des souillures de ma vie passée tant que ma conduite serait honnête et pure. Ma vie depuis 7 mois<note type="footnote">Cette remarque fait dater cette lettre par Paul Souchon de septembre 1833. Il suppose donc que Juliette, comme elle le dit dans d’autres lettres, n’a pas trompé Victor Hugo depuis leur première nuit. Faute de datation précise des lettres jusqu’au 13 octobre 1835, il est difficile d’en être certain, cependant. La syntaxe et la ponctuation de cette lettre, bien maîtrisées (on remarque l’absence de tirets), invitent à dater cette lettre d’après les folios suivants, dont la ponctuation et la syntaxe sont toujours rudimentaires. Deux hypothèses s’offrent à nous : 1) Si cette lettre date bien de septembre 1833, on constate une rapide – mais temporaire – amélioration de son écriture. 2) Si elle est postérieure à septembre 1833, c’est qu’elle fait allusion à une tromperie avouée à Hugo.</note> a été honnête et pure ! Votre promesse, l’avez-vous tenue ? Encore si je ne faisais que souffrir seule, je me résignerais à souffrir, mais vous êtes aussi malheureux que moi. Vous êtes aussi honteux des injures dont vous m’accablez que je le suis moi-même de les recevoir. Maintenant que je sais tout ce que notre position a de gangrené<note type="manuscriptologique">« gangrenée ».</note>, c’est à moi d’arrêter les progrès du mal en coupant à travers mon âme et ma vie, pour sauver ce qui peut encore être sauvé de vous et de moi. Écoutez Victor, je vous demande de ne pas me refuser votre appui pour mettre à exécution le projet que je crois nécessaire, indispensable pour notre honneur à tous les deux. Si quelque chose peut vous donner du courage c’est de savoir que je ne vous ai jamais trompé depuis sept mois. C’est bien vrai, je ne vous ai jamais trompé, c’est bien vrai, oh, c’est bien vrai. Et pourtant depuis sept mois, combien de scènes affligeantes comme celle de ce soir. Vous voyez qu’il n’y a pas à balancer. Je partirai par la première diligence de Saumur, la santé de ma fille en sera le prétexte<note type="footnote">
+                  <persName ref="#jd.notice.620">Claire</persName>, fille de Juliette Drouet et du sculpteur <persName ref="#jd.notice.621">James Pradier</persName>, née le 12 novembre 1826, était en pension à Saumur chez M<hi rend="superscript">lle</hi> <persName ref="#jd.notice.668">Watteville</persName>.</note>. Une fois auprès d’elle, je pourrai réfléchir sur ma position et à ce qu’il y aurait à faire pour la rendre tolérable. Si comme je le crois nécessaire, je rompais avec le théâtre, le mobilier répond pour la créance de <persName ref="#jd.notice.543">Jourdain</persName>, et si vous ne vouliez pas vous donner la peine de vous en occuper, je chargerais n’importe quel homme d’affaires<note type="manuscriptologique">« affaire ».</note> de le vendre jusqu’à la concurrence de la dette de <persName ref="#jd.notice.543">Jourdain</persName> qui est la seule pour laquelle vous ayez répondu. Moi, j’irais à l’étranger. Telle que je suis, je puis encore y gagner ma vie, c’est autant qu’il faut, n’est-ce pas ? Mais tout ceci n’est pas l’important. L’important le voici : c’est de partir le plus tôt possible, aujourd’hui même, pour nous mettre tous les deux à l’abri de nos atroces folies. <lb/>
+Avant de partir, je vous aurai vu, je l’espère, à moins que vous ne soyez plus malade, ce qui serait horrible à penser, moi en étant la cause. Mais que je vous voie ou non, que vous soyez ou non victime de ma fureur, je vous remets en m’en allant tout amour et tout bonheur. Je ne garde même pas l’espérance. Je vous laisse mon âme, ma pensée, ma vie. Je n’emporte que mon corps, ne le regrettez pas. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer>
+            <!--BnF, Mss, NAF 16322, f. 21-23
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+               Guimbaud, Souchon, Massin, Blewer
+               
+            -->
+            <!--a) Date rajoutée sur le manuscrit d’une autre main que celle de Juliette Drouet. 
+b) « resté ». 
+c) « demie heure ». 
+d) « écoutée ». 
+e) Juliette Drouet saute plusieurs lignes entre « s’était » et « passé ». 
+f) « résistée ». 
+g) « cédée ». 
+h) « solemnelle ». 
+i) « fait ». 
+j) « gangrenée ». 
+k) « affaire ». 
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3629"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 24-25</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Souchon</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Corps (autre que maladie)</term><term type="subject">Lettres de Hugo reçues par Juliette Drouet</term><term type="subject">Rituel de la lettre</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3629.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 24-25</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Il faut que je te voie<note type="manuscriptologique">« voies ».</note> ce soir – ne fût-ce qu’un moment – Je te verrai ce soir. Cette pensée fait courir un frisson par tout mon corps – Ma vie depuis hier, est bien triste et bien découragée – et j’ai besoin de toi pour me sentir exister – Je t’aime mon Victor, plus qu’un pâle langage ne peut l’exprimer – Tu es l’ange qui doit parfumer ma vie de bonheur et d’amour – Mon âme – ma vie – mon Victor – je ne t’ai jamais laissé voir tout mon amour – Je craignais de rendre plus pénible pour toi – les moments de notre séparation – Oh ! si tu avais pu voir tout<note type="manuscriptologique">« tous ».</note> ce qu’il y avait d’amour dans mon cœur – si tu avais pu deviner les souffrances que me faisait éprouver cette contrainte – que je m’imposais près de toi – <lb/>
+Maintenant je puis te laisser voir combien je t’aime puisque tu n’as pas craint de t’associer à ma vie – Je t’aime –<lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+Ta bonne lettre d’hier – je la garderai – C’est une promesse sainte – Je la lirai quand je serai triste – elle me donnera du courage –<lb/>
+            </p><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Monsieur Victor Hugo<lb/>
+En ville<lb/>
+            </p></postscript>
+            
+            
+            <!--BnF, Mss, NAF 16322, f. 24-25
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+               Souchon
+               
+            -->
+            <!--a) « voies ». 
+b) « tous ». 
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3631"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 26-27</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Souchon</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Acteurs, actrices</term><term type="subject">Carrière théâtrale de Juliette Drouet</term><term type="subject">Directeurs de théâtre</term><term type="subject">Mort</term><term type="subject">Porte-Saint-Martin</term><term type="subject">Union libre, nature de la relation</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3631.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 26-27</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">
+               <supplied>18</supplied>33<note type="manuscriptologique">Date rajoutée sur le manuscrit d’une main différente de celle de Juliette Drouet. le mention « Icart » (propriétaire des lettres acquises par la BnF en 1969) figure au verso de la lettre.<lb/>
+               </note>
+            </dateline></opener>
+            <p rend="right">Dimanche, 10 h. du soir</p>
+            <p>
+J’ai été bien méchante – bien folle – pardonne-moi<note type="manuscriptologique">« pardonnes moi ».</note> – Si tu savais combien je souffre quand je crois m’apercevoir que tu es froid envers moi – Va, je souffre mille fois plus que ma pauvre âme n’en peut supporter – Mon amour – ma fierté sont bien souvent meurtris – à cause de notre position – et si tu négliges les rares occasions de me rendre les hommages et les soins que mon cœur a droit d’attendre de toi – tu comprends toute l’amertume de mon chagrin – Mon Dieu – tous<note type="manuscriptologique">« tout ».</note> ces emportements qui se reproduisent si souvent – tueront ton amour, je le crains – Cette crainte me livre au découragement. Je voudrais mourir – ou m’en aller bien loin – Tout est préférable au malheur de perdre ton amour – Je ne sais pas si tu me comprends – mais je t’aime – je t’aime – Je donnerais mon sang – je donnerais ma vie – pour ne pas t’affliger une seule fois – et cependant, j’ai été injuste tantôt – Oh ! c’est que je t’aime trop, vois-tu – Je voudrais baiser tes mains, tes pieds – et mourir pour ton seul plaisir – <lb/>
+Je t’aime. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+Je suis bien souffrante et bien fatiguée – Je te conterai<note type="manuscriptologique">« compterai ».</note> demain les nouvelles misérables vexations<hi rend="superscript">e</hi> de ces ignobles gens du théâtre<note type="footnote">Juliette Drouet fait probablement référence aux répétitions de <emph>Marie Tudor</emph> qui se déroulent alors en septembre, octobre 1833. Ces répétitions sont particulièrement mouvementées. Juliette, choisie par Victor Hugo pour jouer le rôle de Jane, subit la jalousie de M<hi rend="superscript">lle</hi> <persName ref="#jd.notice.506">George </persName>, maîtresse de <persName ref="#jd.notice.520">François Harel</persName>, directeur du théâtre de la Porte-Saint-Martin. Les deux comédiennes partagèrent également la scène dans <emph>Lucrèce Borgia</emph> et <emph>La Chambre ardente</emph> cette année-là.</note>. <lb/>
+            </p><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Pr toi<lb/>
+            </p></postscript>
+            
+            
+            <!--BnF, Mss, NAF 16322, f. 26-27
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+               Souchon
+               
+            -->
+            <!--a) Date rajoutée sur le manuscrit d’une main différente de celle de Juliette Drouet. le mention « Icart » (propriétaire des lettres acquises par la BnF en 1969) figure au verso de la lettre. 
+b) « pardonnes moi ». 
+c) « tout ». 
+d) « compterai ».
+e) « vexasions ».-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3633"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 28-29</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Souchon</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3633.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 28-29</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Mon Victor – je t’aime – J’ai le cœur flétri, je manque de force et d’énergie – Fais ce que tu voudras de ma vie et de mon bonheur – Tout ce qui m’arrive d’injustement honteux m’ôte le courage d’accepter la continuation de ton dévouement – <lb/>
+Fais de moi ce que tu voudras – Quoi que tu fasses, quoi qu’il arrive – je t’aimerai avec la même foi et la même ardeur jusqu’à mon dernier soupir. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+À mon Victor bien aimé<lb/>
+            </p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 28-29
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+               Souchon
+               
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3634"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 30-31</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Souchon</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Lettres de Hugo reçues par Juliette Drouet</term><term type="subject">Style (le sien)</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3634.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 30-31</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Voulez-vous accepter cette lettre – en échange des vôtres ? Elle contient moins d’esprit et de poésie que les vôtres – mais plus d’amour vrai – Voyez si ce sacrifice n’est pas au-dessus<note type="manuscriptologique">« audessus ».</note> de vos forces – Soyez sûr<note type="manuscriptologique">« sure ».</note> que vous avez été dur<note type="manuscriptologique">« dure ».</note> et injuste à mon égard – car je ne vous ai jamais plus aimé que ce matin –<lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <lb/>
+            </p><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Pr Victor<lb/>
+            </p></postscript>
+            
+            
+            <!--BnF, Mss, NAF 16322, f. 30-31
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+               Souchon
+               
+            -->
+            <!--a) « audessus ». 
+b) « sure ». 
+c) « dure ». 
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3635"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 32-33</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Souchon</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Lettres de Hugo reçues par Juliette Drouet</term><term type="subject">Plaisanteries</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3635.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 32-33</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Nous avons fait un gentil marché hier – J’espère que vous ne me ferez pas perdre mes arrhes – et que vous tiendrez votre promesse – comme moi la mienne – Ainsi, d’ici à huit jours – quatre grosses lettres – que vous devrez me donner et moi – oh ! moi – c’est incalculable ce que je vous donnerai – J’ai bien peur d’avoir fait un marché de dupe – Enfin je ne reviens pas sur ma parole – Tenez d’abord la vôtre – ensuite vous <hi rend="underline">VERREZ</hi>. <lb/>
+Tout ce badinage – veut dire que je t’aime mon Victor – plus que tout au monde – et que je suis heureuse – et fière de t’appartenir – tout entière<note type="manuscriptologique">« toute entière ».</note> – <lb/>
+À ce soir, mille tendresses de cœur. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+M. Victor<lb/>
+            </p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 32-33
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+               Souchon
+               
+            -->
+            <!--a) « toute entière ».-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3636"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 34-35</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Souchon</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Dieu, religion, prière</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3636.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 34-35</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Merci mon bien-aimé Victor – de tout le bonheur que tu me donnes – Merci de ta croyance à l’avenir – Il y a déjà entre nos âmes une alliance sainte – qui ne peut être rompue. Nos projets ne réussiraient pas encore – qu’il ne faudrait pas nous décourager – <lb/>
+Au revoir mon cher ange – À demain mon bien-aimé Victor – à demain le bonheur – Demain nous sentirons nos deux âmes se toucher sur nos lèvres. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Monsieur Victor Hugo<lb/>
+En ville<lb/>
+            </p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 34-35
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+               Souchon
+               
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3637"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 36-37</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Souchon</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Lettres de Hugo reçues par Juliette Drouet</term><term type="subject">Mort</term><term type="subject">Union libre, nature de la relation</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3637.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 36-37</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Voici un moment de calme – J’en profite pour te montrer l’état de mon cœur – Mon Victor – je t’aime de tout ce qu’il y a d’amour dans mon âme – Pourquoi ne peux-tu pas comprendre que je t’aime ? – Pourquoi ne pas séparer mon caractère de mon cœur ? – Tu m’aimes aussi pourtant – et tu me fais mourir – en paraissant douter de mon amour – Je t’aime – Hier, après ton départ, j’ai senti<note type="manuscriptologique">« sentie ».</note> couler de mes yeux des larmes bien amères – à cause de notre position à tous les deux – <lb/>
+Mon cher Victor – je refuse ton généreux sacrifice – Plus tard, il sera toujours temps de l’accepter – Aujourd’hui, il me tuerait – Il y a un mot, une phrase dans ta lettre qui a fait courir un frisson par tout mon corps – J’ai la tête perdue – je suis folle – oh ! c’est moi qui devrais mourir – si le ciel était juste – <lb/>
+Je t’aime bien Victor – quoique tu paraisses toujours en douter – Je te demande ton indulgence pour mon méchant caractère – <lb/>
+En retour, je te donnerai tout mon amour – toute mon âme. C’est bien peu maintenant – Autrefois, ç’aurait été tout – <lb/>
+Je t’aime. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Monsieur Victor Hugo<lb/>
+En ville<lb/>
+            </p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 36-37
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+               Souchon
+               
+            -->
+            <!--a) « sentie ». 
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3638"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 38-39</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Guimbaud</bibl><bibl>Souchon</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Jalousie, soupçon</term><term type="subject">Mort</term><term type="subject">Union libre, nature de la relation</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3638.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 38-39</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">20 sept<supplied>embre</supplied> <supplied>18</supplied>33<note type="manuscriptologique">Date rajoutée sur le manuscrit d’une main différente de celle de Juliette Drouet.<lb/>
+               </note>
+            </dateline></opener>
+            <p>
+J’ai été hier bien injuste envers toi<note type="manuscriptologique">« oublié ».</note> – Tu as dû me trouver bien ingrate et bien indigne – Tu me haïras bientôt et bientôt aussi tu m’auras oubliée<note type="manuscriptologique">« oublié ».</note> – je le sens bien – Vois-tu, il n’y a pas une seule pensée de toi, pas un sentiment que je ne comprenne et que je ne devine. Eh bien, à présent, au moment où je t’écris, tu me blâmes<note type="manuscriptologique">« blame ».</note> de souffrir, tu m’en veux de t’aimer avec cette exclusion qui me rend folle et jalouse par moments<note type="manuscriptologique">« moment ».</note>. Tu es las de mon amour. Il t’étreint trop fortement, il te fatigue. Tu penses à me fuir – mon mauvais sort t’épouvante, tu crains de le partager plus longtemps, tu crains la responsabilité ou plutôt<hi rend="superscript">e</hi>, tu m’aimes moins. Tu ne m’aimes plus peut-être – Oh ! qu’à cette seule crainte, mon cœur souffre comme ma tête est malade, comme je voudrais mourir. Il me semble que c’est ma faute, que j’ai eu tort<note type="manuscriptologique">« tord ».</note> de te montrer la plaie hideuse de mon cœur : la jalousie qui l’ulcère et le gangrène<note type="manuscriptologique">« gangrenne ».</note>. Oui, je devrais te cacher ce que je souffre – Je ne devrais jamais avoir de ces emportements qui trahissent tant d’amour et tant de douleur. Mon Victor, ne me quitte pas, je t’en prie à genoux. Ne recule pas devant une responsabilité publique qui te demandera compte un jour du plus ou du moins du sacrifice que tu auras fait<note type="manuscriptologique">« fais ».</note> à ma vie extérieure. Que t’importe qu’on te refuse la justice qui t’est due<note type="manuscriptologique">« es du ».</note> ? Que t’importe qu’on t’attribue<note type="manuscriptologique">« atribue ».</note> faussement une partie de ma misère – Ce qu’il faut considérer avant tout, <hi rend="underline">c’est</hi> moi, <hi rend="underline">moi avec toi</hi>. La responsabilité qu’il faut que tu acceptes est vis-à-vis de moi seulement. Elle est tout intérieure<note type="manuscriptologique">« toute intérieure ».</note> et d’âme à âme – Si tu la repousses, je mourrai, c’est bien vrai, je mourrai car ma vie c’est toi, c’est ta présence. Je ne respire que par ta bouche, je ne vois que par tes yeux, je ne vis que dans ton cœur – Je mourrai si tu m’ôtes toi –<lb/>
+Penses-y – Ce n’est pas une menace pour te retenir près de moi, ce que je te dis là – Je ne m’exagère pas jusqu’à quel point tu m’es nécessaire – Je te dis ce que je sens, je te dis la vérité, la vérité avec restriction – car je n’ose me l’avouer à moi tout entière<note type="manuscriptologique">« toute entière ».</note> – <hi rend="underline">Il me faut</hi> toi, il <hi rend="underline">ne me faut que toi</hi> – je ne <hi rend="underline">peux pas vivre sans toi</hi> – Penses-y – <lb/>
+Tâche de m’aimer assez pour accepter ma vie telle que le mauvais sort l’a faite<note type="manuscriptologique">« fait ».</note>.<lb/>
+20 septembre 1833<note type="footnote">Il est rare que Juliette date ses lettres à cette époque. Celle-ci fait exception.</note>
+               <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+Adresse : <lb/>
+À mon Victor bien aimé<lb/>
+            </p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 38-39
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+               Guimbaud, Souchon
+               
+            -->
+            <!--a) Date rajoutée sur le manuscrit d’une main différente de celle de Juliette Drouet. 
+b) « oublié ». 
+c) « blame ». 
+d) « moment ». 
+e) « plus tot ». 
+f) « tord ». 
+g) « gangrenne ». 
+h) « fais ». 
+i) « es du ». 
+j) « atribue ». 
+k) « toute intérieure ».
+l) « toute entière ».
+m) « fait ». 
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3639"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 40-41</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Souchon</bibl><bibl>Blewer</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Amis</term><term type="subject">Jalousie, soupçon</term><term type="subject">Maladie</term><term type="subject">Union libre, nature de la relation</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3639.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 40-41</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Mon Victor – mon amour – mon ange – je t’aime encore plus – depuis que notre amour est menacé – L’altération de ma santé, preuve de mon inquiétude<note type="manuscriptologique">« preuve preuve de mon inquiétude ».</note> et de mes chagrins, ne peut être le résultat d’un amour ordinaire – Je t’aime mon Victor plus que je ne puis dire – Ma vie est à toi, fais-en ce que tu voudras – <lb/>
+J’attendrai un an s’il le faut, un de ces moments si courts plein d’agitation – mais aussi de tendresse et de bonheur – <lb/>
+Je t’aime. Je ne serai jamais qu’à toi – je te le jure – toi aussi n’est-ce pas  – Tu ne me tromperais pas, tu me le dirais si tu ne pouvais pas me garder fidélité entière – N’est-ce pas, tu me le dirais, tu ne voudrais pas me tromper – Je t’aime tant avec cette idée que je suis ta femme – ta seule femme en amour – <lb/>
+Adieu, mon bel ange. Puisse l’avenir être moins sombre que notre présent – <lb/>
+Je baise tes yeux, tes pieds – et le reste – <lb/>
+Je suis à tes genoux, je t’adore. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+Si je suis trop triste de ne pas te voir et que j’aille chez M<hi rend="superscript">me</hi> <persName ref="#jd.notice.558">K.</persName>
+               <note type="footnote">
+                  <persName ref="#jd.notice.558">Laure Kraft</persName>.</note>, tu viendrais m’y chercher –<lb/>
+            </p><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Pr mon bien aimé<lb/>
+            </p></postscript>
+            
+            
+            <!--BnF, Mss, NAF 16322, f. 40-41
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+               Souchon, Blewer
+               
+            -->
+            <!--a) « preuve preuve de mon inquiétude ». 
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3640"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 42-43</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Carrière théâtrale de Juliette Drouet</term><term type="subject">Dettes</term><term type="subject">Directeurs de théâtre</term><term type="subject">Porte-Saint-Martin</term><term type="subject">Répétitions</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3640.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 42-43</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">10 h. ½</dateline></opener>
+            <p rend="right">Nov<supplied>embre</supplied> <supplied>18</supplied>33<note type="manuscriptologique">Date rajoutée sur le manuscrit d’une main différente de celle de Juliette Drouet.<lb/>
+               </note>
+            </p>
+            <p>
+On joue ce soir <hi rend="underline">La Chambre ardente</hi>
+               <note type="footnote">
+                  <emph>La Chambre ardente</emph>, création du 6 août 1833, de Mélesville et Bayard. Juliette Drouet y tient le rôle d’Agathe de Montalais.</note>. Il me semble que tu ignorais ce changement de spectacle hier au soir quand tu es venu me voir. <lb/>
+Cependant, les journaux annoncent tous <hi rend="underline">La</hi>
+               <hi rend="underline">Chambre</hi> pour ce soir – Je crains qu’il n’y ait<note type="manuscriptologique">« est ».</note> là-dessous quelque perfidie à la <persName ref="#jd.notice.520">Harel</persName>
+               <note type="footnote">François <persName ref="#jd.notice.520">Harel</persName> (1790-1846), directeur du théâtre de la Porte-Saint-Martin du 1<hi rend="superscript">er</hi> avril 1832 au 19 octobre 1840.</note> pour obtenir de toi de nouveaux engagements ou de nouvelles concessions. Pauvre ami, je te plains du fond du cœur d’avoir affaire à de pareils misérables – <lb/>
+Je t’aime – pardonne-moi ma jalouse inquiétude – je t’aime – Je t’aime plus que tout – je voudrais mourir pour toi – Je t’aime – <lb/>
+À tantôt j’espère –<lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+Si tu n’étais pas là quand je reviendrai de la répétition, j’irais chez <persName ref="#jd.notice.538">Jannisset</persName> et chez ma couturière et peut-être chez M<hi rend="superscript">me</hi>
+               <persName ref="#jd.notice.473">Delaunay</persName>.<lb/>
+            </p><p rend="right">
+               <gap/> h.</p><p>
+               <lb/>
+Je rentre de la répétition<note type="footnote">Juliette Drouet fait probablement référence aux répétitions de <emph>Marie Tudor</emph> qui se déroulent alors en septembre-octobre 1833. La première a lieu le 7 novembre 1833 au Théâtre de la Porte-Saint-Martin. Ces répétitions furent particulièrement mouvementées. Juliette, choisie par Victor Hugo pour jouer le rôle de Jane, subit la jalousie de M<hi rend="superscript">lle</hi> <persName ref="#jd.notice.506">George</persName>, maîtresse de <persName ref="#jd.notice.520">Harel</persName>, directeur du théâtre.</note>. Les larmes m’étouffent. Je voudrais mourir.</p><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Pr mon bien aimé<lb/>
+            </p></postscript>
+            
+            
+            
+            
+            <!--BnF, Mss, NAF 16322, f. 42-43
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+            -->
+            <!--a) Date rajoutée sur le manuscrit d’une main différente de celle de Juliette Drouet. 
+b) « est ». 
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3641"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 44-45</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Carrière théâtrale de Juliette Drouet</term><term type="subject">Répétitions</term><term type="subject">Séparation</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3641.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 44-45</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">Lundi, 2 h.</dateline></opener>
+            <p rend="right">
+               <supplied>5 août 1833</supplied>
+               <note type="footnote">La datation de la lettre du mercredi 7 août 1833 (<ref target="http://www.juliettedrouet.org/lettres/spip.php?page=article&amp;id_article=3643">NAF 16322, f. 48-49</ref>), qui porte l’indication « 3<hi rend="superscript">e</hi> », est confirmée. En recoupant cette date avec l’adjectif numéral « 1<hi rend="superscript">re</hi> » indiqué sur la présente lettre, nous pouvons la dater du lundi 5 août 1833.</note>
+            </p>
+            <p>
+Je t’ai attendu hier toute la journée inutilement – Aujourd’hui je ne conserve plus d’espoir que pour ce soir – et tard peut-être – Je suis bien triste – je te désire bien – je t’aime – je suis bien malheureuse de notre séparation – <lb/>
+Je ne suis sortie hier que pour me rendre au théâtre – Aujourd’hui ce sera la même chose – <lb/>
+Mon Victor bien aimé, je t’aime bien plus que je puis dire – Depuis que tu m’as quittée<note type="manuscriptologique">« quitté ».</note> – j’ai baisé toutes les places, tout ce que tu avais touché et occupé – Oh ! Je t’aime – Et toi, m’aimes-tu – Es-tu malheureux en mon absence ? – Je l’espère – À bientôt – le plus tôt possible –<lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+Je vais essayer de travailler.</p><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+1<hi rend="superscript">re</hi>
+               <lb/>
+M. Victor<lb/>
+            </p></postscript>
+            
+            
+            <!--BnF, Mss, NAF 16322, f. 44-45
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+            -->
+            <!--a) « quitté ». 
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3642"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 46-47</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Souchon</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Rêves</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3642.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 46-47</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">Mardi, 9 h. du matin</dateline></opener>
+            <p rend="right">
+               <supplied>6 août 1833</supplied>
+               <note type="footnote">La datation de la lettre du mercredi 7 août 1833 (<ref target="http://www.juliettedrouet.org/lettres/spip.php?page=article&amp;id_article=3643">NAF 16322, f. 48-49</ref>), qui porte l’indication « 3<hi rend="superscript">e</hi> », est confirmée. En recoupant cette date avec l’adjectif numéral « 2<hi rend="superscript">e</hi> » indiqué sur la présente lettre, nous pouvons la dater du mardi 6 août 1833.</note>
+            </p>
+            <p>
+J’ai rêvé de vous toute la nuit – Je vous écris ce matin – voilà j’espère, qui commence bien la journée et me donnera le courage et la patience de vous attendre – <lb/>
+Mon âme – ma vie – mon Victor – je t’aime. Oh ! si tu pouvais voir tout ce qu’il <supplied>y a</supplied> d’amour pour toi dans mon cœur – Si tu pouvais deviner les souffrances que me font éprouver les violences injustes – de mon mauvais caractère – tu me plaindrais et m’en aimerais encore plus – Je te promets de faire tous mes efforts – pour être digne de toi – <lb/>
+Vous étiez bien beau hier soir – soit dit sans vous donner de la fatuité car votre beauté était celle des anges – J’osais à peine vous regarder – mais je vous aimais – Oh ! je vous aimais. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+2<hi rend="superscript">e</hi>
+               <lb/>
+Pr Victor<lb/>
+            </p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 46-47
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+               Souchon
+               
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3643"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 48-49</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Carrière théâtrale de Juliette Drouet</term><term type="subject">Directeurs de théâtre</term><term type="subject">Hygiène, santé</term><term type="subject">Porte-Saint-Martin</term><term type="subject">Artisans et ouvriers</term><term type="subject">Soin (de l'autre)</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3643.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 48-49</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">Mercredi, 10 h. du matin</dateline></opener>
+            <p rend="right">
+               <supplied>7 août 1833</supplied>
+               <note type="footnote">La pièce évoquée par Juliette, <emph>Bergami et la Reine d’Angleterre</emph>, est reprise le dimanche 18 août 1833. Le billet reçu précise « sans remise <emph>Bergami</emph> dimanche », probablement le dimanche précédent le 18 août, la reprise ayant été repoussée probablement à cause du refus de jouer de Juliette Drouet. Nous pouvons donc penser que cette lettre, écrite un mercredi, date du mercredi précédent, c’est-à-dire le mercredi 7 août 1833. De plus, l’indication « 3<hi rend="superscript">e</hi> » nous conforte dans cette datation, la « 6<hi rend="superscript">e</hi> » lettre ayant été écrite le samedi 10 août 1833.</note>
+            </p>
+            <p>
+Pauvre bien-aimé – je ne te verrai sans doute pas aujourd’hui. Ce retard qui autrefois m’aurait paru une très grande contrariété, est maintenant un profond chagrin, car je ne suis pas sûre de te voir demain – Encore, si je n’avais pas de cruelles inquiétudes sur ta santé – Oh ! mon bien aimé Victor. Prends bien soin de toi. Songe que ta santé, c’est mon bonheur et ma vie – Mon Victor, je t’aime – je suis à toi – toujours à toi – à toi seul. Je serai jusqu’à la mort ta fidèle amante –<lb/>
+Comme j’en étais là de ma lettre – on m’apporte un bulletin du théâtre – ainsi conçu – sans remise <hi rend="underline">Bergami</hi>
+               <note type="footnote">
+                  <emph>Bergami et la Reine d’Angleterre</emph>, de Fontan, Dupeuty et Alhoi, repris à la Porte-Saint-Martin le dimanche 18 août 1833. Juliette y joue le rôle de Caroline de Brunswick.</note> dimanche. M. <persName ref="#jd.notice.520">Harel</persName> compte sur votre zèle accoutumé – Cette phrase – me trouve bien indifférente et bien peu disposée à faire ce qu’on me demande – d’étudier. J’aime mieux penser à toi – Je ne suis pas dégoûtée – comme tu vois – Oh ! je t’aime tant ! – Ma mémoire, comme tout le reste, n’est qu’à toi – quand il te plaira de me la rendre j’étudierai – Jusque-là, ce sera un peu difficile – <lb/>
+En attendant, je te donne des milliers de baisers en désir. Je t’aime – Je t’aime. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+Peut-être irai-je chez M<hi rend="superscript">me</hi> <persName ref="#jd.notice.571">Ledon</persName> pour mon costume.</p><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+3<hi rend="superscript">e</hi>
+               <lb/>
+Pr Victor<lb/>
+               <gap/>
+            </p></postscript>
+            
+            
+            <!--BnF, Mss, NAF 16322, f. 48-49
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3644"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 50-51</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Carrière théâtrale de Juliette Drouet</term><term type="subject">Directeurs de théâtre</term><term type="subject">Domestiques</term><term type="subject">Jalousie, soupçon</term><term type="subject">Nourriture, repas</term><term type="subject">Porte-Saint-Martin</term><term type="subject">Répétitions</term><term type="subject">Rituel de la lettre</term><term type="subject">Séparation</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3644.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 50-51</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Mon Victor, je t’aime – Je pense sans cesse à toi – À toutes mes actions se joint<note type="manuscriptologique">« joinds ».</note> ton souvenir – qui me donne le courage de supporter ton absence – J’espère bien que malgré cette cruelle séparation – nos existences ne se désunissent pas – et ne peuvent se désunir – Il y a entre nous un pacte saint et sacré que rien ne pourra rompre, n’est-ce pas – ? <lb/>
+Je t’écris en revenant de la répétition parce que je voulais te mander comment <persName ref="#jd.notice.520">Harel</persName> avait pris mon refus de jouer <hi rend="underline">Bergami</hi> dimanche<note type="footnote">
+                  <emph>Bergami ou la reine d’Angleterre</emph> fut repris le dimanche 18 août 1833 au Théâtre de la Porte-Saint-Martin, après avoir été joué pour la première fois le jeudi 27 juin 1833.</note>. Je l’ai trouvé plus raisonnable que je ne m’y attendais – Je ne jouerai donc pas dimanche cette dégoûtante rapsodie – <lb/>
+Je suis sortie hier depuis quatre heures<note type="manuscriptologique">« heure ».</note> jusqu’à cinq – puis j’ai dîné, je suis allée<note type="manuscriptologique">« allé ».</note> ensuite au théâtre à 6 h., enfin je suis revenue le soir avec ma femme de chambre, j’ai soupé solitairement, je me suis couchée<note type="manuscriptologique">« couché ».</note> bien triste, j’ai espéré te voir jusqu’à 1 h. du matin ––––<hi rend="superscript">e</hi>
+               <lb/>
+Je me suis levée à neuf heures, je t’aurais écrit<note type="manuscriptologique">« écris ».</note> de suite si je n’avais jugé devoir te rendre compte de l’issue de la répétition – <lb/>
+Adieu, à ce soir je l’espère car je t’aime tant. Je suis triste, inquiète et jalouse – <lb/>
+Je t’aime tous les jours davantage. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+4<hi rend="superscript">e</hi>
+               <lb/>
+Pr Victor<lb/>
+            </p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 50-51
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+            -->
+            <!--a) « joinds ». 
+b) « heure ». 
+c) « allé ». 
+d) « couché ». 
+e) Le trait court jusqu’à la fin de la ligne. 
+f) « écris ». 
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3645"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 52-53</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Argent, comptes, dépenses</term><term type="subject">Famille de Juliette Drouet</term><term type="subject">Séparation</term><term type="subject">Travail de Victor Hugo</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3645.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 52-53</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">Vendredi, 4 h.</dateline></opener>
+            <p rend="right">
+               <supplied>Vendredi 9 août 1833</supplied>
+               <note type="footnote">Cette lettre porte l’indication « 5<hi rend="superscript">e</hi> ». La lettre du samedi 10 août 1833 porte l’indication « 6<hi rend="superscript">e</hi> ». Nous pouvons donc penser que cette lettre a été écrite le vendredi 9 août 1833.</note>
+            </p>
+            <p>
+Vous ne viendrez pas encore aujourd’hui, je le vois bien – Quand vous êtes longtemps sans me voir, mon bien-aimé – n’oubliez pas la pauvre femme qui s’ennuie prodigieusement de votre absence – Dépêchez-vous donc de noircir bien du papier – pour revenir plus vite auprès de moi – de moi – qui vous aime de toutes les puissances de mon âme –<lb/>
+Ma mère est malade<note type="footnote">S’agit-il ici de Françoise <persName ref="#jd.notice.589">Marchandet</persName> ? La véritable mère de Juliette, Marie Marchandet, épouse Gauvain, décède le 15 décembre 1806. Son père, Julien Gauvain, décède le 12 septembre 1807. <persName ref="#jd.notice.479">René-Henry Drouet</persName> et sa femme, Françoise Marchandet, sœur de Marie, recueilleront la jeune orpheline. En 1864, Victor Hugo fait encadrer un portrait de l’oncle Drouet avec l’inscription « Mon oncle par le nom, mon père par le cœur ». Son épouse aurait donc pu être considérée comme une mère par Juliette.</note> – Je crois deviner la cause de sa maladie – Je crois qu’elle a besoin d’argent pour déménager – Je vais aller de ce pas chez M<hi rend="superscript">me</hi> <persName ref="#jd.notice.473">Delaunay</persName> pour tâcher d’emprunter encore 100 francs sur mon meuble – <lb/>
+Je te dis tout cela, mon bien-aimé, pour te dire tout ce que je fais – mais je ne veux pas que cela t’inquiète le moins du monde – Adieu chère âme – compte sur moi – comme je compte sur toi – J’aurai du courage et de la persévérance – Je t’aime tant –<lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+Je vais de suite quai Voltaire<note type="footnote">Il est probable que M<hi rend="superscript">me</hi> <persName ref="#jd.notice.473">Delaunay</persName> résidait quai Voltaire. Cela reste à élucider.</note>.</p><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+5<hi rend="superscript">e</hi>
+               <lb/>
+M. Victor<lb/>
+            </p></postscript>
+            
+            
+            <!--BnF, Mss, NAF 16322, f. 52-53
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3646"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 54-55</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Copie, collation, épreuves, manuscrit</term><term type="subject">Nourriture, repas</term><term type="subject">Coiffure</term><term type="subject">Plaisanteries</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3646.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 54-55</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Il est six heures et je n’ai pas encore dîné – Je travaille depuis midi – je ne me plains pas – puisque tu seras heureux de ravoir les lettres où je laissais parler<note type="manuscriptologique">« parlé ».</note> mon cœur – Et puis tu m’embrasseras ce soir – c’est plus qu’il ne m’en faut pour me donner du courage et de la patience – <lb/>
+Comme vous étiez ravissant hier au soir avec votre jolie tête – et vos beaux cheveux mal peignés – Comme le bonheur vous sied bien – et comme je vous aime –<lb/>
+            </p>
+            <p>
+               <supplied>Adresse</supplied>
+               <lb/>
+15<hi rend="superscript">e</hi>
+               <lb/>
+Pr Victor<lb/>
+            </p>
+            <!--BnF, Mss, NAF 16322, f. 54-55
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+            -->
+            <!--a) « parlé ». 
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3647"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 56-57</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Amis</term><term type="subject">Anniversaires, fêtes</term><term type="subject">Argent, comptes, dépenses</term><term type="subject">Fleurs</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3647.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 56-57</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">Samedi, 9 h. du matin</dateline></opener>
+            <p rend="right">
+               <supplied>Samedi 10 août 1833</supplied>
+            </p>
+            <p>
+Je suis triste – Je prévois que cette journée sera longue pour moi – Pour surcroît d’ennui, c’est aujourd’hui la fête de M<hi rend="superscript">me</hi> <persName ref="#jd.notice.558">K</persName>
+               <note type="footnote">M<hi rend="superscript">me</hi> <persName ref="#jd.notice.558">Kraft</persName>, prénommée Laurence-Charlotte, se fait appeler Laure. Saint Laurent étant fêté le 10 août, on peut en déduire que cette lettre a été écrite le samedi 10 août 1833.</note>. Comme elle m’a souhaité<note type="manuscriptologique">« souhaitée ».</note> la mienne, je ne puis me dispenser de lui envoyer un bouquet – Autre embarras, ma bourse est <hi rend="underline">exactement</hi>
+               <note type="manuscriptologique">« exatement » souligné deux fois.</note> vide – Cependant, il me faut un bouquet – Je <hi rend="underline">L’AURAI</hi>.<lb/>
+Comme ce matin ressemble peu à notre <hi rend="underline">matin</hi> d’hier. Aujourd’hui triste et seule – Hier avec toi – heureuse de ton amour – de ton bonheur – qui est toute ma joie – toute ma vie – Cher ange – le souvenir d’hier me fait voir l’horizon de notre avenir – clair – et pur – comme notre amour – comme notre amour est pur – <lb/>
+Adieu mon bien-aimé – espérons tous les deux – et quoi qu’il arrive, aimons-nous –<lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+J’ai mis là  _______ un baiser. Prends-le – Je sors pour mon bouquet. <lb/>
+            </p><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+6<hi rend="superscript">e</hi>
+               <lb/>
+M. Victor <lb/>
+            </p></postscript>
+            
+            
+            <!--BnF, Mss, NAF 16322, f. 56-57
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+            -->
+            <!--a) « souhaitée ». 
+b) « exatement » souligné deux fois. 
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3648"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 58-59</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Carrière théâtrale de Juliette Drouet</term><term type="subject">Répétitions</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3648.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 58-59</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>La répétition a été transposée de dix heures à midi un quart – ce qui sera cause, mon cher bien-aimé, que je ne rentrerai que tard – Ne t’impatiente et pense que je serai plus privée que toi – Aime-moi – comme je t’aime – Je t’aime de toutes mes forces –<lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+10<hi rend="superscript">e</hi>
+               <lb/>
+               <unclear> Mr</unclear> Victor<lb/>
+            </p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 58-59
+Transcription de Jeanne Stranart et Véronique Cantos assistées de Florence Naugrette
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3649"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 60-61</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Hygiène, santé</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3649.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 60-61</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">Vendredi, 2 h.</dateline></opener>
+            <p rend="right">
+               <supplied>16 août 1833</supplied>
+               <note type="footnote">La datation de la lettre du samedi 10 août 1833 (<ref target="http://www.juliettedrouet.org/lettres/spip.php?page=article&amp;id_article=3647">NAF 16322, f. 56-57</ref>) est confirmée. La présente lettre portant l’indication « 12<hi rend="superscript">e</hi> », on peut dater cette lettre du vendredi suivant le samedi 10 août, c’est-à-dire le vendredi 16 août 1833.</note>
+            </p>
+            <p>Tu n’es pas revenu hier au soir – et le peu de temps que tu as passé avec moi, tu as été triste – préoccupé – Dans la première des deux choses, j’ai craint que ton genou n’ait été l’obstacle à ton retour – et je me suis tourmentée toute la nuit – Dans la seconde, j’y ai vu que tu m’aimais moins – que tu m’abusais – et t’abusais toi-même – sur les sentiments que tu éprouvais pour moi – Et alors je me suis affligée, j’ai pleuré<note type="manuscriptologique">« pleurée ».</note> longtemps et fort –<lb/>
+Si, comme je le crains, ton amour était éteint – je te demande un aveu franc et loyal – Je suis préparée à tout – et n’exigerai pas de la misérable nature humaine plus qu’elle ne peut faire – Ne crains pas de froisser l’amante – C’est aujourd’hui la femme probe et confiante – qu’il faut respecter – <lb/>
+Dis-moi si tu m’aimes moins – ne fais pas la folie de me tromper – pour ménager ma sensibilité –<lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+12<hi rend="superscript">e</hi>
+               <lb/>
+               <unclear>Pr</unclear> Victor<lb/>
+            </p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 60-61
+Transcription de Jeanne Stranart assistée de Florence Naugrette
+            -->
+            <!--a) « pleurée ». 
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3650"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 62-63</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Carrière théâtrale de Juliette Drouet</term><term type="subject">Porte-Saint-Martin</term><term type="subject">Répétitions</term><term type="subject">Séparation</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3650.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 62-63</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">
+               <supplied>18</supplied>33<note type="manuscriptologique">Date rajoutée sur le manuscrit d’une main différente de celle de Juliette.<lb/>
+               </note>
+               <lb/>
+Samedi matin</dateline></opener>
+            <p rend="right">
+               <supplied>17 août 1833</supplied>
+               <note type="footnote">La datation de la lettre du samedi 10 août 1833 (<ref target="http://www.juliettedrouet.org/lettres/spip.php?page=article&amp;id_article=3647">NAF 16322, f. 56-57</ref>) est confirmée. La présente lettre portant l’indication « 14<hi rend="superscript">e</hi> », on peut dater cette lettre du samedi suivant le samedi 10 août, c’est-à-dire le samedi 17 août 1833.</note>
+            </p>
+            <p>
+La journée d’hier a été bien heureuse – Celle d’aujourd’hui sera bien triste, bien longue à passer – Je ne te verrai pas – Je t’ai promis d’être courageuse et résignée – Il me serait facile d’être tout cela – s’il ne s’agissait pas de notre séparation – Je t’avoue que ton absence me trouve toujours lâche et révoltée – Je t’aime – j’ai besoin de toi – Je t’aime – Je ne suis contente et heureuse qu’auprès <supplied>de</supplied> toi – Loin de toi – je souffre, je pleure – je doute – <lb/>
+Je suis bien malheureuse de t’aimer autant puisqu’il faut que tu passes la plus grande partie de ta vie loin de moi – <lb/>
+On ne répète que ce soir – Je sors pour mes costumes – Si tu viens ce soir, fais moi demander au théâtre. <lb/>
+Adieu, n’oublie<note type="manuscriptologique">« oublies ».</note> pas que je t’aime – de toutes les forces de mon âme. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+14<hi rend="superscript">e</hi>
+               <lb/>
+               <unclear>Pr</unclear> Victor<lb/>
+            </p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 62-63
+Transcription de Jeanne Stranart assistée de Florence Naugrette
+            -->
+            <!--a) Date rajoutée sur le manuscrit d’une main différente de celle de Juliette. 
+b) « oublies ».
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3651"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 64-65</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Carrière théâtrale de Juliette Drouet</term><term type="subject">Jalousie, soupçon</term><term type="subject">Porte-Saint-Martin</term><term type="subject">Répétitions</term><term type="subject">Rituel de la lettre</term><term type="subject">Séparation</term><term type="subject">Travail de Victor Hugo</term><term type="subject">Artisans et ouvriers</term><term type="subject">Fleurs</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3651.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 64-65</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">
+               <unclear>1833</unclear>
+               <lb/>Mardi, 4 h.</dateline></opener>
+            <p rend="right">
+               <supplied>20 août 1833</supplied>
+               <note type="footnote">La datation de la lettre du samedi 10 août 1833 (<ref target="http://www.juliettedrouet.org/lettres/spip.php?page=article&amp;id_article=3647">NAF 16322, f. 56-57</ref>) est confirmée. La présente lettre porte l’indication « 16<hi rend="superscript">e</hi> ». Nous pouvons donc dater cette lettre du mardi 20 août 1833.</note>
+            </p>
+            <p>
+Ma première pensée en me réveillant, a été pour toi mon bien-aimé – Je t’aurais écrit<note type="manuscriptologique">« écris ».</note> ce matin si je n’avais pas craint de t’affliger par une tristesse et une inquiétude injuste et presque injurieuse – Pardonne, je suis jalouse – mais je t’aime. J’ai remis à ce soir de t’écrire – Cette précaution sera presque inutile – Je suis aussi triste et aussi tourmentée que ce matin – Cependant, je voudrais t’écrire des paroles douces et affectueuses telles que je les sens – quand l’absence et la jalousie ne les dénaturent pas – Je t’aime, mon Victor bien aimé, je t’aime – Je voudrais mourir pour toi – et toi, m’aimes-tu toujours autant ? Il me semble que ces journées de travail et de séparation amènent du refroidissement dans ton amour – Mon Dieu ! pourvu que je me sois trompée – pourvu que tu m’aimes – Va, je suis bien malheureuse d’en douter. Oh ! Je t’aime – <lb/>
+Adieu. Je te donne un baiser de mes lèvres fiévreuses. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+Je suis toujours très seule – et j’ai donné chez moi – et chez la portière une consigne sévère de ne laisser monter ni entrer personne chez moi – Je suis allée<note type="manuscriptologique">« allé ».</note> hier chez la couturière et la fleuriste pour mes costumes – <gap/> m’a reconduite<note type="manuscriptologique">« reconduit ».</note> le soir – et aujourd’hui je ne suis sortie que pour ma répétition – Maintenant je vais tâcher de ne pas trop penser à vous – pour étudier un peu –</p><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+16<hi rend="superscript">e</hi>
+               <lb/>
+               <unclear>Pour</unclear> Victor<lb/>
+            </p></postscript>
+            
+            
+            <!--BnF, Mss, NAF 16322, f. 64-65
+Transcription de Jeanne Stranart assistée de Florence Naugrette
+            -->
+            <!--a) « écris ». 
+b) « allé ». 
+c) « reconduit ». 
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3652"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 66-67</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Maladie</term><term type="subject">Rituel de la lettre</term><term type="subject">Travail de Juliette Drouet</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3652.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 66-67</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">10 h. du matin</dateline></opener>
+            <p>
+Bonjour – mon Victor – Je t’aime – Je suis un peu malade – un espèce de phénomène – Je te dirai cela – car je ne saurais pas l’écrire. Mais ce que je puis bien t’écrire – c’est que je t’aime – que tu es toute ma joie, mon bonheur – ma vie – Je t’embrasse – et je t’attends –</p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+Je vais travailler pour toi –</p><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+17<hi rend="superscript">e</hi>
+               <lb/>
+Pr Victor<lb/>
+            </p></postscript>
+            
+            
+            <!--BnF, Mss, NAF 16322, f. 66-67
+Transcription de Jeanne Stranart assistée de Florence Naugrette
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3653"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 68-69</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Dieu, religion, prière</term><term type="subject">Soin (de l'autre)</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3653.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 68-69</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Je t’aime, mon Victor – Je t’aime – plus que la vie – Victor – et je te renouvelle froidement – avec le calme de l’amour heureux – J’aimerais mieux voir <unclear>mourir</unclear> tout ce qui après toi m’est cher – que de perdre une parcelle de ta précieuse existence – Tu es mon âme et ma vie – J’ai tant besoin de ton bonheur – que je ne veux être étrangère à aucune de tes affections – et je prie Dieu – pour <unclear>nous</unclear> – et pour toi – Oh ! mon Victor – je ne veux plus que tu souffres – jamais – Je ne veux plus voir ta vie tourmentée – tes nuits sans sommeil – Victor – je serai digne de ta confiance – comme je suis digne de ton amour – Il n’y a plus rien entre toi et moi que tu ne connaisses<note type="manuscriptologique">« connaisse ».</note> – Je me suis donnée tout entière<note type="manuscriptologique">« toute entière ».</note> à toi – mon âme à toi – mon corps à tes baisers – Mon Victor – tu es tout pour moi – parents – amis – tout. Ne l’oublie<note type="manuscriptologique">« oublies ».</note> pas – Je t’aime – Tu es mon dieu – ma seule croyance. <lb/>
+Je t’aime. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+18<hi rend="superscript">e</hi>
+               <lb/>
+À toi mon bien-aimé<lb/>
+            </p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 68-69
+Transcription de Jeanne Stranart assistée de Florence Naugrette
+            -->
+            <!--a) « connaisse ». 
+b) « toute entière ».
+c) « oublies ». 
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3654"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 70-71</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Hygiène, santé</term><term type="subject">Ménage, linge</term><term type="subject">Travail de Victor Hugo</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3654.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 70-71</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">Vendredi, 10 h.</dateline></opener>
+            <p rend="right">
+               <supplied>23 août 1833</supplied>
+               <note type="footnote">La datation de la lettre du samedi 10 août 1833 (<ref target="http://www.juliettedrouet.org/lettres/spip.php?page=article&amp;id_article=3647">NAF 16322, f. 56-57</ref>) est confirmée.  La présente lettre porte l’indication « 19<hi rend="superscript">e</hi> ». Nous pouvons donc dater cette lettre du vendredi 23 août 1833.</note>
+            </p>
+            <p>
+Mon Victor bien-aimé – je ne puis penser sans une vive émotion – à toi – À ton amour – ton amour si vrai – si pur, si dévoué. Pauvre ami, tu te condamnes pour moi à un travail pénible qui peut détruire ta santé – Tu abandonnes tout pour te dévouer à une infortune méritée – Est-ce assez de t’aimer comme je le fais – Je t’aime plus que je ne puis le dire, plus que je ne le sais – car je t’aime au-delà<note type="manuscriptologique">« audela ».</note> de tout – Je t’aime avec mon sang – avec mon souffle, avec mon âme – Je t’aime – Je t’adore –<lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+Je viens de me lever – si je ne puis rassembler de lettres à cause des morceaux que tu as chez toi – je travaillerai au ménage – <lb/>
+À ce soir, mon Victor – à ce soir – Ma pensée – mon amour – ne te quittent<note type="manuscriptologique">« quitte ».</note> jamais. Je t’aime.</p><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+19<hi rend="superscript">e</hi>
+               <lb/>
+À mon bien-aimé</p></postscript>
+            
+            
+            <!--BnF, Mss, NAF 16322, f. 70-71
+Transcription de Jeanne Stranart assistée de Florence Naugrette
+            -->
+            <!--a) « audela ». 
+b)  « quitte ». 
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3655"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 72-73</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Souchon</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Passé de Juliette Drouet</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3655.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 72-73</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Je t’ai quitté, mon ange, tu paraissais triste et mécontent. <lb/>
+Mon Victor, me serais-je attachée à ta vie comme un scorpion venimeux pour la flétrir et l’épuiser ? Déjà ton sourire frais et libre devient chaque jour plus rare. Tu es malheureux, Victor, et mon amour est un obstacle à ta tranquillité. <lb/>
+Je voudrais fuir, je voudrais te déchirer de moi, de mon amour qui devrait couronner ta vie de roses et la parfumer de bonheur et qui semble la couvrir d’un crêpe. <lb/>
+Mais l’air que tu ne respires pas me ferait mourir, mon Victor. Ton regard m’est plus nécessaire que le soleil et j’ai besoin de tes baisers pour rafraîchir mon âme et lui donner des forces. Le lien qui existe entre nous est celui qui me tient à la vie. Si je n’avais été ton <hi rend="underline">amante</hi> j’aurais voulu être ton amie. Si tu m’avais refusé ton amitié, je t’aurais demandé à genoux d’être ton chien, ton esclave. <lb/>
+Mon âme est rongée par la pensée de ma situation. Mais je veux être seule à souffrir. Tu es trop faible, toi, pour supporter comme moi des nuits sans sommeil. Si tu mourais, voudrais-tu m’empêcher de mourir avec toi ? Fou, le pourrais-tu ? N’es-tu pas mon âme et ma vie ? Et le chagrin, qui chaque jour grossit comme une avalanche, le chagrin qui creuse l’âme goutte à goutte, n’est-ce pas une longue mort ? <lb/>
+Je me suis donnée à toi tout entière, à toi ma vie, belle ou hideuse, riante ou sombre, poétique ou rampante dans la boue. Je n’ai rien voulu en retrancher de toi. Je veux la partie la plus précieuse de ton existence, ton amour, car je crois, et laisse-le-moi croire, que l’amour peut mettre du miel dans la coupe la plus amère. <lb/>
+Tu m’appelles ange et je suis un pauvre ange déchu. Mais l’amour élève si haut, mon Victor, tu verras repousser mes ailes et je t’enlèverai au ciel. <lb/>
+Mais… Mais, et ici je m’arrête. Je vais marcher sur un aspic qui va se retourner contre moi. Je vais mettre le pied sur un terrain mouvant. Écoute. Mais je ne veux pas que tu voies l’état de mon cœur en ce moment. Je ne veux pas que tu le regardes pour voir s’il saigne, que tu y portes le doigt pour voir si la blessure est large. Mes souffrances à moi je saurai les supporter. Je ne puis m’expliquer… Tâche de me comprendre. <lb/>
+Ils disent : « Il n’est pour elle qu’un moyen, un seul, de changer sa position. » Eh bien, Victor<note type="manuscriptologique">Avant cet endroit, le manuscrit de la lettre nous manque. Paul Souchon y a eu accès, puisqu’il transcrit tout le début de la lettre. Nous recopions donc sa transcription, pour ce seul début, en adoptant son système de ponctuation, qui diffère du nôtre (nous laissons les tirets utilisés par Juliette Drouet comme ponctuation dans les premiers temps de sa correspondance).<lb/>
+               </note>, ce moyen, tu le repousses – l’idée – t’en fait frissonner – Victor – j’ai à subir des conséquences de ma vie passée – de ma vie sans amour – Il y a une plaie – il faut la brûler avec un fer rouge – Il faut une souffrance – après la souffrance – des angoisses après les angoisses –<lb/>
+Je souffrirai car je t’aime – Je t’aime tant – J’éprouverai d’affreuses tortures – mon cœur sera mâché – haché – <lb/>
+Et toi ! - toi ! ---<note type="manuscriptologique">Le trait court jusqu’à la fin de la ligne.<lb/>
+               </note>
+               <lb/>
+Mais il faut couper le membre gangrené – il faut à tout prix enterrer le cadavre – qui se place froid – entre nos baisers – Puis, comme les martyrs – nous trouverons une vie céleste – une nouvelle vie que nous recommencerons ensemble – une vie d’oubli – de bonheur – de bonheur pur comme mon âme – car mon âme est restée pure – Quand mon corps a été profané – elle est montée au ciel – elle est restée pure et vierge –<lb/>
+Nous vivrons ensemble – pauvres et heureux, riches d’amour et de poésie –<lb/>
+Si dans cette lettre quelque chose – froisse ton cœur – pardonne – Je l’expie par les larmes que je verse en l’écrivant –<lb/>
+Samedi, 4 h. … <lb/>
+À ce soir. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+1833<note type="manuscriptologique">Date rajoutée sur le manuscrit d’une main différente de celle de Juliette.<lb/>
+               </note>
+            </p><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Monsieur Victor Hugo<lb/>
+En ville<lb/>
+            </p></postscript>
+            
+            
+            <!--BnF, Mss, NAF 16322, f. 72-73
+Transcription de Jeanne Stranart assistée de Florence Naugrette
+               Souchon
+               
+            -->
+            <!--a) Avant cet endroit, le manuscrit de la lettre nous manque. Paul Souchon y a eu accès, puisqu’il transcrit tout le début de la lettre. Nous recopions donc sa transcription, pour ce seul début, en adoptant son système de ponctuation, qui diffère du nôtre (nous laissons les tirets utilisés par Juliette Drouet comme ponctuation dans les premiers temps de sa correspondance). 
+b) Le trait court jusqu’à la fin de la ligne. 
+c) Date rajoutée sur le manuscrit d’une main différente de celle de Juliette. 
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3656"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 74-75</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Répétitions</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3656.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 74-75</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Je te verrai demain à trois heures – après la répétition – Du courage jusque-là – Je me le dis à moi – comme à toi – du courage – <lb/>
+Je t’aime – Je t’aimerai toujours – quoi qu’il arrive – Pense que <hi rend="underline">ton âme</hi> est toujours à moi – la mienne, à toi. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Monsieur Victor Hugo<lb/>
+En ville</p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 74-75
+Transcription de Jeanne Stranart assistée de Florence Naugrette
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3657"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 76-77</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Séparation</term><term type="subject">Villégiatures</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3657.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 76-77</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Quand vous êtes longtemps sans me voir – mon cher ange – n’oubliez pas la pauvre femme qui s’ennuie prodigieusement – Écrivez-moi donc aujourd’hui – une bonne et longue lettre – qui m’occupe toute la nuit – et me fasse bien commencer ma journée de demain – <lb/>
+Mon Victor – dans peu de jours nous irons nous renfermer dans notre petite retraite – Tu es bien bon de voir un peu de bonheur – pour toi – dans ce qui me rendra si heureuse – Nous passerons de bons moments, seuls – nous deux – et nous oublierons tout excepté notre amour –<lb/>
+J’ai encore eu aujourd’hui une affaire désagréable – qui m’a occupée une partie de la journée – mais laissons cela. Ton amour, mon Victor, est pour moi une large compensation à toutes ces tracasseries – Il y a une affection tendre et sincère – sur laquelle je puis compter – et une poitrine sur laquelle je puis toujours appuyer ma tête – Tu es tout pour moi – je t’aime, je t’embrasse – <lb/>
+Je ne pourrai pas te voir ce soir. Songe que je serai plus privée que toi – Il faudra m’en aimer davantage d’ici à demain – <lb/>
+Je t’aime, je n’aime que toi –<lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Monsieur Victor Hugo<lb/>
+En ville<lb/>
+            </p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 76-77
+Transcription de Jeanne Stranart assistée de Florence Naugrette
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.3658"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 78-79</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Souchon</bibl><bibl>Blewer</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Hygiène, santé</term><term type="subject">Maladie</term><term type="subject">Union libre, nature de la relation</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.3658.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 78-79</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">Samedi, 2 h. du matin</dateline></opener>
+            <p>
+Fou – méchant enfant – N’ai-je pas souffert cent fois plus que toi – plus que je n’en ai la force  – Tu me perces le cœur –<lb/>
+J’ai des chagrins de mille autres parts, mille fois plus que ma pauvre âme n’en peut supporter – Je te les cache pour ne pas te faire du mal – Tout<note type="manuscriptologique">« tous ».</note> ce qu’il y a de sensible en moi, toutes les affections – tout est broyé, meurtri<note type="manuscriptologique">« meurtrie ».</note> et tu m’abandonnes aujourd’hui – quand tu es mon seul bonheur – tout l’aliment de ma<note type="manuscriptologique">« de ma ma vie ».</note> vie – Tu m’abandonnes lâchement – livrée au découragement – Victor ! – j’avais cru ton âme plus grande et plus digne de la mienne – Toi que j’aimais – de tout ce qu’il y a d’amour dans mon cœur – tu tues le reste de ma vie – tu romps<note type="manuscriptologique">« rompts ».</note> tout d’un souffle<hi rend="superscript">e</hi>, comme si c’était une toile d’araignée<note type="manuscriptologique">« arraignée ».</note> – Je n’ai plus rien au monde – rien dans la vie – Tu m’aimes pourtant, et tu me fais mourir – Tu détruis mon bonheur et le tien – J’amassais dans mon cœur tant d’amour et de bonheur – Tu es fou – et moi, plus folle encore – Mais ne sais-tu pas que je suis à toi corps et âme ? Comme une femme qui a fait un pacte – Si mon bonheur seulement était attaché à ton amour – je te fuirais – car on peut se passer de bonheur – Et d’ailleurs, je n’ai pas pris à ce sujet de mauvaises habitudes – mais c’est pour vivre qu’il me faut ton amour – Je t’aime de toutes mes forces – je meurs loin de toi –<lb/>
+J’ai une fièvre atroce, je vais prendre un bain à 8 h. Peut-être me calmera-t-il – <lb/>
+Pourquoi ne veux-tu pas comprendre que je t’aime ? Tu m’aimes pourtant – et tu me fais mourir – À demain, mon Victor – je t’aime. Je te pardonne<note type="manuscriptologique">« pardonnes ».</note> –<lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Monsieur Victor Hugo<lb/>
+En ville<lb/>
+            </p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 78-79
+Transcription de Jeanne Stranart assistée de Florence Naugrette
+               Souchon, Blewer
+               
+            -->
+            <!--a) « tous ». 
+b) « meurtrie ». 
+c) « de ma ma vie ». 
+d) « rompts ». 
+e) « soufle ». 
+f) « arraignée ». 
+g) « pardonnes ». 
+            -->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5708"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 80-81</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Carrière théâtrale de Juliette Drouet</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5708.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 80-81</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Je t’aime – Je n’ai pensé qu’à toi – Je t’aime – <lb/>
+Je suis revenue du théâtre à onze heures et demie. Il est minuit – Je vais me coucher car la fatigue m’accable – Bonsoir, mon bien-aimé. Dors bien – Je t’aime. À demain.</p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Pr mon bien-aimé</p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 80-81 Transcription de Jeanne Stranart assistée de Florence Naugrette-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5709"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 82-83</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Carrière théâtrale de Juliette Drouet</term><term type="subject">Maux de tête</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5709.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 82-83</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">11 h. du soir</dateline></opener>
+            <p>
+Je t’aime –<lb/>
+J’ai un si violent mal de tête qu’il me serait impossible de continuer ces lignes. Mais tout est là – dans un mot. Je t’aime.</p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+et M<hi rend="superscript">lle</hi> Juju qui se joint à moi pour dire je t’aime à Toto.</p><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Pr mon bien-aimé</p></postscript>
+            
+            
+            <!--BnF, Mss, NAF 16322, f. 82-83 Transcription de Jeanne Stranart assistée de Florence Naugrette-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5710"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 84-85</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Carrière théâtrale de Juliette Drouet</term><term type="subject">Dettes</term><term type="subject">Œuvre de Victor Hugo</term><term type="subject">Travail de Victor Hugo</term><term type="subject">Artisans et ouvriers</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5710.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 84-85</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Je viens d’envoyer chez <persName ref="#jd.notice.5731">Éverat</persName>
+               <note type="footnote">L’imprimeur de Victor Hugo est alors M. A. Éverat, considéré comme le plus grand imprimeur de Paris (<emph>Revue de Paris</emph>, 1834, tome VI).</note>. Tu n’y avais pas encore paru – il est huit heures et demie – J’ai besoin d’essayer mes costumes encore une fois, pour n’avoir rien à faire demain – Viens me trouver chez la couturière, si tu penses qu’il en est encore temps – ou attends-moi chez moi. <lb/>
+J’ai reçu en rentrant un papier que tu pourras lire. Je l’aurais envoyé ou porté de suite chez <persName ref="#jd.notice.588">Manière</persName>, si j’avais été avec toi ou si j’avais eu les billets pour demain –<lb/>
+Je suis très agitée. Je suis plus que folle car je t’aime.</p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Pr Victor</p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 84-85 Transcription de Jeanne Stranart assistée de Florence Naugrette-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5711"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 86-87</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Acteurs, actrices</term><term type="subject">Carrière théâtrale de Juliette Drouet</term><term type="subject">Hygiène, santé</term><term type="subject">Jalousie, soupçon</term><term type="subject">Porte-Saint-Martin</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5711.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 86-87</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Il est onze heures moins un quart – Je suis bien courbaturée – et j’ai de plus mon rôle dans <hi rend="underline">10 ans</hi>
+               <note type="footnote">
+                  <emph>Dix ans de la vie d’une femme</emph> de Scribe et Terrier. Juliette y joue le rôle de Sophie Marini à la Porte-Saint-Martin à partir du 2 avril 1832, puis le rôle d’Adèle Darcey à partir du 14 juillet 1833.</note> à repasser pour le jouer demain – Mais avant de me coucher et avant d’apprendre mon rôle – je <unclear>vais ? veux</unclear> te dire que je t’aime, que je t’aime de toutes les forces de mon âme – <lb/>
+Je vais me coucher tout de suite – Je ne demande pas mieux car il y a dans mon lit beaucoup de choses qui me viennent de toi – Cela contribue à te rendre continuellement présent à ma pensée, à mon <unclear>cœur ? amour</unclear> –<lb/>
+Bonsoir, à demain, j’espère. Je t’aime de toute mon âme. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+Ton <unclear>absence</unclear> est bien malignement interprétée<hi rend="superscript">b</hi> par la vilaine, vieille et grosse femme<note type="footnote">Il pourrait s’agir de la comédienne M<hi rend="superscript">lle</hi> <persName ref="#jd.notice.506">George</persName>. Juliette l’appelle parfois « la grosse dame » du fait de son embonpoint.</note> – Tu m’aimes n’est-ce pas ? Tu m’aimes toujours autant – <hi rend="superscript">a</hi>Moi je t’aime plus tous les jours.</p><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Mon bien-aimé Victor</p></postscript>
+            
+            
+            <!--BnF, Mss, NAF 16322, f. 86-87 Transcription de Jeanne Stranart assistée de Florence Naugrette 
+a) Juliette écrit la dernière phrase au bas de la page faisant face au corps de la lettre. b) « interprété ».-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5712"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 88-89</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Jalousie, soupçon</term><term type="subject">Lettres de Hugo reçues par Juliette Drouet</term><term type="subject">Mort</term><term type="subject">Séparation</term><term type="subject">Union libre, nature de la relation</term><term type="subject">Soin (de l'autre)</term><term type="subject">Chance, malchance</term><term type="subject">Superstition</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5712.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 88-89</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Tu vois, mon Victor, que j’ai raison quand je dis que j’attire le chagrin et les contrariétés<note type="manuscriptologique">« contrariétées ».</note> sur nos réunions, chaque fois que je manifeste le désir de les voir plus rapprochées<note type="manuscriptologique">« raprochées ».</note> et plus longues ainsi pour moi – Reviens vite – Je t’attends de bonne heure est le synonyme<note type="manuscriptologique">« synonyme ».</note> de je ne te verrai plus de ce soir, ou je te verrai trop peu de temps pour être heureuse – On est pas plus malencontreuse que moi – Et surtout si facile à s’en chagriner<note type="manuscriptologique">« chagriné ».</note> – Ainsi quoique tu m’aies dit que ce ne serait jamais par ta faute que je ne te verrais pas – quoique je sache<hi rend="superscript">e</hi>, qu’il y a des devoirs que ta position t’impose<note type="manuscriptologique">« imposent ».</note>, quoique j’espère une lettre ravissante de toi pour demain matin – je sais bien que tout cela c’est bien peu de choses pour compenser la perte d’un moment passé près de toi – et puis je m’inquiète, je crains qu’il ne te soit arrivé quelque chose, à toi, ou, aux tiens – Je pense aussi que la crainte de me trouver triste et injuste t’empêche de venir, quand bien même tu le pourrais – Toutes ces idées me font mourir – et je te trouve bien injuste à ton tour de ne pas comprendre mes tristesses et mes jalouses humeurs –<lb/>
+Un beau matin tu ne me retrouveras plus – Tu verras par la suite si tu trouveras un amour aussi bon et entier que l’était le mien –<lb/>
+Pardonne-moi – ce n’est pas une menace que je te fais – Je sens bien que tu ne m’aimes plus comme autrefois – À quoi bon prolonger cette agonie – Quand l’amour est malade – tu conseilles le suicide – En m’éloignant de toi je t’obéirai, je ferai ce que tu veux – Mon Dieu, je suis bien malheureuse ce soir – et pourtant je ne t’ai jamais plus aimé – Oh ! si je pouvais avoir une lettre de toi demain matin – peut-être que j’oublierais toutes mes souffrances et que j’aurais un visage rayonnant quand tu viendras t’asseoir sur mon lit – Si tu m’aimes comme je t’aime, tu dois sentir le besoin de me consoler – Tu dois comprendre que ce qui se passe dans ma pauvre tête à présent – c’est de l’amour, de l’amour malheureux – mais enfin c’est de l’amour –<lb/>
+Mon Victor, je t’embrasse avec mon âme seulement, pour ne pas te réveiller – <lb/>
+Dors bien – pour me reposer – Je t’aime.</p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>Vendredi, 2 h. du matin</p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 88-89 Transcription de Jeanne Stranart assistée de Florence Naugrette-->
+            <!--a) « contrariétées ». b) « raprochées ». c) « synonyme ». d) « chagriné ». e) « saches ». f) « imposent ».-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5713"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 90-91</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Argent, comptes, dépenses</term><term type="subject">Dettes</term><term type="subject">Lettres de Hugo reçues par Juliette Drouet</term><term type="subject">Yeux</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5713.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 90-91</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Je te verrai ce soir – je t’aime – Tu verras dans mes yeux si je suis heureuse de te voir et si je t’aime –<lb/>
+Si tu m’aimes aussi beaucoup – et si tes yeux te le <hi rend="underline">permettent</hi>, tu me feras <hi rend="underline">l’avance</hi>
+               <note type="manuscriptologique">« l’avance » est souligné deux fois.</note> d’une bonne petite lettre que je baiserai bien – et qui couchera avec moi – cette nuit – Je te promets que je ferai demain ma liquidation – Je t’aime – Je t’attends – <lb/>
+Je t’aime encore plus fort –<lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Monsieur Victor Hugo<lb/>
+En ville</p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 90-91 Transcription de Jeanne Stranart assistée de Florence Naugrette-->
+            <!--a) « l’avance » est souligné deux fois.-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5714"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 92-93</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Carrière théâtrale de Juliette Drouet</term><term type="subject">Correspondance de Juliette Drouet avec des tiers</term><term type="subject">Rituel de la lettre</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5714.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 92-93</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Je ne pourrai pas te voir ce soir après le spectacle – j’ai beaucoup à <hi rend="underline">gribouiller</hi>
+               <note type="manuscriptologique">« gribouiller » est souligné deux fois.</note>. Je t’envoie un bon baiser des lèvres et du cœur – Tâche de venir un moment ce soir au théâtre – Je t’aurai vu, je serai moins malheureuse – <lb/>
+Écris-moi – De mon côté – tu trouveras une lettre demain – <lb/>
+Je t’aime – Je t’aime.</p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Monsieur Victor Hugo<lb/>
+En ville</p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 92-93 Transcription de Jeanne Stranart assistée de Florence Naugrette-->
+            <!--a) « gribouiller » est souligné deux fois.-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5715"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 94-95</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Amis</term><term type="subject">Sorties (autres que théâtre)</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5715.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 94-95</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Je ne sais que te dire que je t’aime – parce que c’est tout ce que <supplied>je</supplied> sens – tout ce que je pense – tout ce qui m’anime – Mon Dieu que je t’aime !<lb/>
+Il est 2 <supplied>h.</supplied>, je sors. Je dînerai chez M<hi rend="superscript">me</hi> <persName ref="#jd.notice.558">K.</persName>
+               <note type="footnote">
+                  <persName ref="#jd.notice.558">Laure Kraft</persName>.</note> – tu viendras m’y chercher –<lb/>
+À ce soir – tu verras<note type="manuscriptologique">« verra ».</note> comme je t’embrasserai.</p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Monsieur Victor</p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 94-95 Transcription de Jeanne Stranart assistée de Florence Naugrette-->
+            <!--a) « verra ».-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5716"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 96-97</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Amis</term><term type="subject">Hygiène, santé</term><term type="subject">Maladie</term><term type="subject">Sorties (autres que théâtre)</term><term type="subject">Maux de tête</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5716.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 96-97</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Je t’aime bien mon Victor – J’ai une croyance ferme en notre affection – Je ne croirai jamais que ce que tu me diras – Quoi qu’il arrive, je t’aime, je t’aimerai toujours –<lb/>
+Je ne suis pas sortie ce matin parce que j’ai été très souffrante – depuis que tu m’as quittée<note type="manuscriptologique">« quitté ». </note>. Je vais essayer si l’air et le changement de lieu apporteront quelque soulagement à un mal de tête qui devient de jour en jour plus insupportable – Peut-être dînerai-je chez M<hi rend="superscript">me</hi> <persName ref="#jd.notice.558">K.</persName>
+               <note type="footnote">
+                  <persName ref="#jd.notice.558">Laure Kraft</persName>.</note> – Dans ce cas, tu viendrais m’y chercher – comme la dernière fois – Si tu ne me trouves pas chez moi ce soir, c’est que je serai restée<note type="manuscriptologique">« resté ».</note> chez M<hi rend="superscript">me</hi> K. <lb/>
+Adieu, et bientôt au revoir. Je t’aime. Je ne pense qu’à toi.</p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Pr Victor</p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 96-97 Transcription de Jeanne Stranart assistée de Florence Naugrette-->
+            <!--a) « quitté ».  b) « resté ».-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5717"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 98-99</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Lettres de Hugo reçues par Juliette Drouet</term><term type="subject">Rituel de la lettre</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5717.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 98-99</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Je t’aime !</p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+Je n’ai pas le temps de t’écrire mais demain tu trouveras une bonne et longue lettre de moi – Si tu pouvais m’écrire ce soir – toi – un seul mot de consolation – je serais moins triste et moins malheureuse –<lb/>
+Je t’aime !</p><closer><signed rend="right">Juliette</signed></closer><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Monsieur Victor Hugo<lb/>
+En ville</p></postscript>
+            
+            <postscript><p>
+Je n’ai pas le temps de t’écrire mais demain tu trouveras une bonne et longue lettre de moi – Si tu pouvais m’écrire ce soir – toi – un seul mot de consolation – je serais moins triste et moins malheureuse –<lb/>
+Je t’aime !</p><closer><signed rend="right">Juliette</signed></closer><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Monsieur Victor Hugo<lb/>
+En ville</p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 98-99 Transcription de Jeanne Stranart assistée de Florence Naugrette-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5718"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 100-101</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Carrière théâtrale de Juliette Drouet</term><term type="subject">Jalousie, soupçon</term><term type="subject">Maladie</term><term type="subject">Porte-Saint-Martin</term><term type="subject">Répétitions</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5718.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 100-101</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">
+               <supplied>Fin 1833</supplied>
+               <note type="footnote">À l’automne 1833, Juliette prépare le rôle de Jane dans <emph>Marie Tudor</emph>, de Victor Hugo. Ils travaillent donc ensemble au Théâtre de la Porte-Saint-Martin. Ils travaillèrent également ensemble pour <emph>Lucrèce Borgia</emph> en janvier 1833, mais le ton familier de la lettre nous fait penser que la relation de Victor Hugo et Juliette Drouet est déjà intime, ce qui explique cette datation.</note>
+            </dateline></opener>
+            <p>
+Je t’aime, mon Victor, mais je suis bien malade. J’ai le cœur plein d’amertume mais je t’aime encore plus que je ne souffre. Je <hi rend="underline">t’aime</hi>
+               <note type="manuscriptologique">« t’aime » est souligné trois fois.</note>, entends<note type="manuscriptologique">« entend ».</note>-tu bien ? Je t’aime. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+Il est quatre heures, il faut que je me rende au théâtre où tu ne tarderas pas à me<note type="manuscriptologique">« m’y ».</note> joindre. J’ai tant besoin de toi.</p><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Pr mon bien-aimé</p></postscript>
+            
+            
+            <!--BnF, Mss, NAF 16322, f. 100-101 Transcription de Jeanne Stranart assistée de Florence Naugrette-->
+            <!--a) « t’aime » est souligné trois fois. b) « entend ». c) « m’y ».-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5719"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 102-103</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Acteurs, actrices</term><term type="subject">Jalousie, soupçon</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5719.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 102-103</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>À demain – mon bien-aimé – Vous étiez bien assidu – et bien tendre hier – auprès de la grosse dame<note type="footnote">Il pourrait s’agir de la comédienne M<hi rend="superscript">lle</hi> <persName ref="#jd.notice.506">George</persName>. Juliette l’appelle parfois « la grosse dame » du fait de son embonpoint.</note> – Si vous me trahissiez – À demain – je t’aime, toi –</p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Monsieur Victor Hugo<lb/>
+En ville</p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 102-103 Transcription de Jeanne Stranart assistée de Florence Naugrette-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5720"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 104-105</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Carrière théâtrale de Juliette Drouet</term><term type="subject">Porte-Saint-Martin</term><term type="subject">Répétitions</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5720.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 104-105</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Mon bien-aimé Victor – ne m’en veux pas – Je rentre tard et fatiguée<note type="manuscriptologique">« fatigué ».</note>. Depuis ce matin jusqu’à présent cinq heures que j’ai passé<note type="manuscriptologique">« passée ».</note> à la répétition, je ne me suis pas assise – Je commence le spectacle. Si tu <supplied>peux</supplied> venir me chercher au théâtre <unclear>ou</unclear> m’attendre chez <hi rend="underline">moi</hi> – J’aimerais mieux cette dernière proposition –<lb/>
+Je t’aime – je t’aime, je t’aime.</p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Monsieur Victor</p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 104-105 Transcription de Jeanne Stranart assistée de Florence Naugrette-->
+            <!--a) « fatigué ». b) « passée ».-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5721"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 106-106 bis</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5721.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 106-106 bis</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">Lundi, 9 h. du soir</dateline></opener>
+            <p>
+Rien qu’un seul mot. Je t’aime.</p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Bonsoir mon adoré</p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 106-106 bis Transcription de Jeanne Stranart assistée de Florence Naugrette-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5722"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 107-108</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Argent, comptes, dépenses</term><term type="subject">Dettes</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5722.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 107-108</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">
+               <supplied>18</supplied>33<note type="manuscriptologique">Date rajoutée sur le manuscrit d’une main différente de celle de Juliette.</note>
+               <lb/>
+2 h. ½</dateline></opener>
+            <p>
+Je vais aller chez <persName ref="#jd.notice.538">Jannisset</persName> et de là chez M. <persName ref="#jd.notice.621">Pradier</persName>, si je ne réussis pas chez Janisset – pour de l’argent dont j’ai absolument besoin – Attends-moi – Tout cela ne me retiendra pas plus d’une heure – <lb/>
+Je t’aime – je t’aime.</p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Monsieur Victor</p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 107-108 Transcription de Jeanne Stranart assistée de Florence Naugrette-->
+            <!--a) Date rajoutée sur le manuscrit d’une main différente de celle de Juliette.-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5723"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 109-110</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Souchon</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Jalousie, soupçon</term><term type="subject">Lettres de Hugo reçues par Juliette Drouet</term><term type="subject">Passé de Juliette Drouet</term><term type="subject">Séparation</term><term type="subject">Union libre, nature de la relation</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5723.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 109-110</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">2 h. du matin</dateline></opener>
+            <p>
+Je n’ai pas la force de me relever pour prendre une feuille de papier –<lb/>
+Que vous est-il donc arrivé ? Qui a pu vous retenir loin de moi, sachant comme vous m’avez laissée<note type="manuscriptologique">« laissé ». </note>. Je crains qu’il vous soit arrivé malheur à vous ou à vos chères affections – Je voudrais être à demain – Je voudrais être avec vous – Je voudrais n’être qu’en vous – Je me déplais et je souffre seule avec moi-même. Je viens de lire vos lettres d’hier matin – Pauvre, méchant enfant – Vous êtes bien injuste envers vous et bien ingrat envers moi – Vous êtes si au-dessus de tous – qu’il y a folie à supposer une infidélité pure et simple – Quant<note type="manuscriptologique">« quand ».</note> à l’autre cas, vous savez bien aussi que je préfère la pauvreté et plus encore – pour rester digne de vous – <lb/>
+Si cette ignoble lettre n’avait pas eu de si tristes effets pour vous et pour moi – j’en aurais ri comme d’une nouvelle industrie exercée par des fripons d’une plus vile espèce encore que les autres – Mais je vous le répète, je suis trop triste et trop malheureuse pour rire d’une turpitude qui pourrait nous désunir à tout jamais. <lb/>
+Je vous aime, Victor – Je suis bien souffrante – mais je vous aime. <lb/>
+Je t’aime. <lb/>
+            </p>
+            <closer><signed rend="right">Juliette</signed></closer>
+            <!--BnF, Mss, NAF 16322, f. 109-110 Transcription de Jeanne Stranart assistée de Florence Naugrette
+               Souchon
+            -->
+            <!--a) « laissé ».  b) « quand ».-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5724"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 111-112</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Amis</term><term type="subject">Argent, comptes, dépenses</term><term type="subject">Génie</term><term type="subject">Rituel de la lettre</term><term type="subject">Vêtements</term><term type="subject">Dieu, religion, prière</term><term type="subject">Voitures, omnibus, tramways</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5724.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 111-112</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">
+               <gap/> h.<lb/>9<note type="manuscriptologique">Chiffre entouré rajouté sur le manuscrit d’une main différente de celle de Juliette.<lb/>
+               </note>
+               <lb/>
+               <supplied>18</supplied>33<note type="manuscriptologique">Date rajoutée sur le manuscrit d’une main différente de celle de Juliette.<lb/>
+               </note>
+            </dateline></opener>
+            <p>
+Il y a environ 2 h. que je t’ai écrit très longuement. Je ne suis pas bien sûre de ce que contient la lettre – Dans le cas où quelque chose te blesserait – n’oublie pas que je t’aime – que je souffre – et que lorsque je souffre, je suis la plus injuste et la plus malheureuse des femmes – Mon Victor, jamais je ne t’ai autant aimé – Tu me sembles encore plus beau depuis que je te vois à mon aise. Tu me sembles bon comme Dieu même, depuis que j’ai éprouvé ta bonté – Je comprends mieux ta supériorité – et ton génie – parce que mes yeux se sont habitués à l’éclat dont tu brilles – Enfin je t’aime en tout – et pour tout. Je t’aime.</p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+Je vais dîner chez M<hi rend="superscript">me</hi> <persName ref="#jd.notice.558">K…</persName>. Viens m’y chercher, je t’attendrai – N’importe à quelle heure. Tu prendras un cabriolet à l’heure, c’est 39 sous et la course 30 sous. Tu vois que ce n’est pas trop déraisonnable. Je vais chez M<hi rend="superscript">me</hi> K… en vrai bonnet de nuit et en vraie<note type="manuscriptologique">« vrai ».</note> robe de chambre – et avec une mine à faire fuir le diable – Aussi suis-je malade comme <hi rend="underline">une bête</hi>
+               <note type="manuscriptologique">« une bête » est souligné trois fois.</note>.</p><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+2<hi rend="superscript">e</hi>
+               <lb/>
+Pr mon bien-aimé Victor</p></postscript>
+            
+            
+            <!--BnF, Mss, NAF 16322, f. 111-112 Transcription de Jeanne Stranart assistée de Florence Naugrette-->
+            <!--a) Chiffre entouré rajouté sur le manuscrit d’une main différente de celle de Juliette. b) Date rajoutée sur le manuscrit d’une main différente de celle de Juliette. c) « vrai ». d) « une bête » est souligné trois fois.-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5725"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 113-114</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Guimbaud</bibl><bibl>Souchon</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Argent, comptes, dépenses</term><term type="subject">Dettes</term><term type="subject">Artisans et ouvriers</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5725.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 113-114</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">Mardi, 5 h. ½<note type="manuscriptologique">Paul Souchon date cette lettre, sans certitude, du 8 juillet 1834. On ne voit pas quel argument permet cette datation conjecturale.<lb/>
+               </note>
+            </dateline></opener>
+            <p>
+Voici encore l’heure à laquelle j’espérais te voir passer – Combien d’heures comme celle-ci sont retombées sur mon cœur – Oh ! je suis bien triste – bien découragée. Je souffre plus qu’il n’est permis de souffrir – J’ai vu <persName ref="#jd.notice.543"> Jourdain</persName> aujourd’hui. Je l’ai trouvé plus défiant et plus inquiet que je ne le craignais. Encore une chance de moins pour nous – D’un autre côté, les créanciers sont plus exigeants que jamais pour la raison qu’ils ont beaucoup attendu<note type="manuscriptologique">« attendus ».</note> – Enfin le terme dans huit jours – Tout cela m’agace, m’effraie – et pour couronner ces tourments<hi rend="superscript"/>de tous genres – ton absence – ton absence qui ressemblerait à un abandon – si je ne te connaissais bon et honnête. Pauvre ami, je suis bien à plaindre – bien malheureuse – Voilà pour le présent – et l’avenir est encore plus menaçant et plus sombre – Mon Dieu – que vais-je devenir ? Je suis folle – <lb/>
+Je t’aime, je t’aime. Aie<note type="manuscriptologique"> « aies ».</note> pitié de moi – Je t’aime.</p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+Je t’attendrai jusqu’à 9 h.</p><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Pr mon bien-aimé</p></postscript>
+            
+            
+            <!--BnF, Mss, NAF 16322, f. 113-114 Transcription de Jeanne Stranart assistée de Florence Naugrette
+               Guimbaud, Souchon
+            -->
+            <!--a) Paul Souchon date cette lettre, sans certitude, du 8 juillet 1834. On ne voit pas quel argument permet cette datation conjecturale. b) « attendus ».
+c) « aies ».-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5726"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 115</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Chance, malchance</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5726.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 115</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>Il est 6 h. passé, je ne te verrai plus que ce soir – Si j’avais su ne pas te voir, j’aurais commandé mon dîner et je ne serais pas sortie. <lb/>
+Je suis bien triste – Il est à remarquer que je ne passe pas un jour sans chagrin – que ce soit la faute de mon mauvais caractère ou la faute du sort – Oh ! je suis bien triste.</p>
+            <!--BnF, Mss, NAF 16322, f. 115 Transcription de Jeanne Stranart assistée de Florence Naugrette-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5727"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 116</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Domicile, déménagement, travaux d'intérieur</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5727.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 116</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <p>J’irai à tout hasard<note type="manuscriptologique">« hazard ».</note> chez moi. Je t’y attendrai sans espoir –– <lb/>
+Adieu, ne souffre pas, toi – <lb/>
+Je t’aime.</p>
+            <closer><signed rend="right">Juliette</signed></closer><postscript><p>
+               <supplied>Adresse</supplied>
+               <lb/>
+3<hi rend="superscript">e</hi>
+               <lb/>
+Pr toi mon adoré</p></postscript>
+            
+            <!--BnF, Mss, NAF 16322, f. 116 Transcription de Jeanne Stranart assistée de Florence Naugrette-->
+            <!--a) « hazard ».-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5856"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 269-270</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><listBibl><bibl>Blewer</bibl></listBibl></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Dettes</term><term type="subject">Style (le sien)</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5856.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 269-270</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">
+               <supplied>7 décembre 1833</supplied>
+               <note type="footnote">Juliette doit comparaître le 8 décembre 1833 pour « détournement frauduleux au préjudice d’une dame Ribou (pour <persName ref="#jd.notice.627">Ribot</persName>), marchande de cachemires. » Elle envoie cette lettre à Victor Hugo la veille de son jugement, c’est-à-dire le samedi 7 décembre 1833 (Gérard Pouchain, <emph>ouvrage cité</emph>, p. 148).</note>
+               <lb/>
+4 ¼<lb/>
+               <supplied>Peu avant le 16 décembre 1833</supplied>
+               <note type="manuscriptologique">Date rajoutée par Evelyn Blewer dans son ouvrage.<lb/>
+               </note>
+               <note type="footnote">Le 16 décembre 1833, le journal <emph>Brid’oison</emph> publiera cet entrefilet : « Le procès intenté à M<hi rend="superscript">lle</hi> Juliette, actrice de la Porte-Saint-Martin, est tombé dans l’eau ; le tribunal correctionnel a déclaré que les faits n’étaient nullement justifiés, et il a condamné la dame Ribou, plaignante, aux dépens. » Néanmoins le carnet de comptes de Juliette porte la mention : « créances en janvier 1834 fictives, ou usurières : Ribot (Ribou), capital 8000 francs. » (Evelyn Blewer, <emph>ouvrage cité</emph>, p. 26 ; Paul Souchon, <emph>Juliette</emph>
+                  <emph>Drouet</emph>, p. 42).</note>
+            </dateline></opener>
+            <p>
+Je rentre. Tu n’es pas encore venu – Mon Dieu, j’avais cependant bien besoin de te voir – Les plus sinistres pensées – se tirent et se déchirent mon cœur – Demain – demain peut-être – l’opprobre aura succédé à la misère et la honte – Mon Dieu, Victor, que fais-tu donc à cette heure ? – Quand je meurs de douleurs et de craintes –<lb/>
+            </p>
+            <p rend="right">8 h.</p>
+            <p>Pas encore – et c’est aujourd’hui que tu me manques – quand tu es toute ma force – tout mon courage – toute ma foi – Victor – Victor – le sort est bien cruel envers moi – Mon Dieu – mon Dieu, que faire, que devenir –<lb/>
+Il faut que j’assiste demain en <hi rend="underline">personne</hi> au tribunal de police correctionnelle, pour y être peut-être jugée<note type="manuscriptologique">« jugé ».</note> comme coupable de soustraction d’effets saisis chez moi – à deux ans de prison. Mon Dieu, depuis cette conférence que j’ai eue<note type="manuscriptologique">« eu ».</note> tantôt avec mon huissier et mon avoué de deux heures à quatre – je suis <hi rend="underline">folle</hi>, <hi rend="underline">folle</hi> – Je sens bien que ma raison n’en peut supporter davantage – Et pour finir ma journée, tu ne viens pas, tu ne viendras pas. À quoi m’auront servi ma confiance en ton amour, ma foi en l’avenir et mon courage – Tu m’abandonnes toujours au moment du danger. Oh, Victor, Victor – tu es bien coupable – et moi bien malheureuse –<lb/>
+Oh, je souffre ! Pardonnez-moi cette lettre, son désordre, ses expressions et sachez bien que, quoi qu’il arrive, je vous aimerai toujours passionnément.</p>
+            <p rend="right">Juliette<lb/>
+8<supplied>h.</supplied> ½</p>
+            <p>
+               <supplied>Adresse</supplied>
+               <lb/>
+Pr M. Victor<lb/>
+2<hi rend="superscript">e </hi>lettre</p>
+            <!--BnF, Mss, NAF 16322, f. 269-270 Transcription de Jeanne Stranart assistée de Florence Naugrette
+               Blewer
+            -->
+            <!--a) Date rajoutée par Evelyn Blewer dans son ouvrage. b) « jugé ». c) « eu ».-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus><teiCorpus xml:id="jd.entry.5868"><teiHeader><fileDesc><titleStmt><title>BnF, Mss, NAF 16322, f. 292-293</title></titleStmt><publicationStmt><p/></publicationStmt><sourceDesc><p/></sourceDesc></fileDesc><profileDesc><langUsage><language ident="fre">Français</language></langUsage><textClass><keywords><term type="subject">Lettre</term><term type="subject">Union libre, nature de la relation</term></keywords></textClass></profileDesc></teiHeader><TEI xml:id="jd.entry.5868.01">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p/>
+         </publicationStmt>
+         <sourceDesc><msDesc><msIdentifier><repository>BnF, Mss, NAF 16322, f. 292-293</repository></msIdentifier></msDesc></sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc>
+            <correspAction type="written">
+               <persName>Juliette Drouet</persName>
+               <date>Non datée</date>
+               <placeName>Paris</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Victor Hugo</persName>
+            </correspAction>
+         </correspDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener><dateline rend="right">Dimanche soir, 8 h. ½<note type="footnote">L’évocation du « sursis » peut faire penser que cette lettre a été écrite au retour du jugement de Juliette, c’est-à-dire le dimanche 8 décembre 1833.</note>
+            </dateline></opener>
+            <p>
+C’est encore plus fort à présent, c’est-à-dire plus triste. Je ne sais plus où j’en suis. Si cela continue, je serai malade demain, car il est impossible d’être plus abattue et plus démoralisée<note type="manuscriptologique">« démoralisé ».</note> que je ne le suis. Pourtant je t’ai revu, j’ai même l’espoir de te revoir encore ce soir, mais tout cela ce n’est qu’une fraction, un morceau de bonheur de ce tout que j’avais encore hier, plein et entier. Vraiment je me surprends à pleurer comme si c’était un coup inattendu et cependant, hier au soir à la même heure, mon <hi rend="underline">sursis</hi> ne m’avait pas encore été accordé. Je crois que je serai longtemps avant de me consoler de la perte de notre fougueux équipage y compris cet affreux Pierre<note type="footnote">Pierre est le cocher de Victor Hugo.</note>. C’EST UN PEU DUR DE CAFÉ d’en être réduite à pleurer<note type="manuscriptologique">« pleuré ».</note> la perte de ces deux espèces d’animaux. <lb/>
+Je vais me coucher TOUTE SEULE. C’est fini à présent, je ne peux ni être couchée, ni assise, ni debout, sans regretter le temps où je me couchais, je me levais, je marchais, je m’asseyais auprès de toi <hi rend="underline">et le reste</hi>. Il paraît que je suis rentrée<note type="manuscriptologique">« rentré ».</note> dans LES SABRES qui pavent le chemin de la vie de tous<note type="manuscriptologique">« tout ».</note> ceux qui aiment.</p>
+            <closer><signed rend="right">Juliette</signed></closer>
+            <!--BnF, Mss, NAF 16322, f. 292-293 Transcription de Jeanne Stranart assistée de Florence Naugrette-->
+            <!--a) « démoralisé ». b) « pleuré ». c) « rentré ». d) « tout ».-->
+         </div>
+      </body>
+   </text>
+</TEI></teiCorpus></teiCorpus>
